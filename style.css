@@ -3,7 +3,6 @@ body {
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: 10vw 30vw 10vw;
   grid-gap: 1em;
-  background-color: black;
 }
 
 header,
