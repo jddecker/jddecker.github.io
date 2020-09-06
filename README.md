@@ -1,3 +1,3 @@
-# jddecker.github.io
+# jddecker.github.io / jddecker.com
 
-Website for [jddecker.com](https://jddecker.com).
+Personal website at [jddecker.com](https://jddecker.com).
