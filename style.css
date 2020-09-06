@@ -9,6 +9,10 @@ body {
   max-width: 40rem;
 }
 
+h1 {
+  border-bottom: 1px solid lightgray;
+}
+
 footer {
   text-align: right;
 }
