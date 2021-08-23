@@ -1,4 +1,3 @@
-/* Reset margin, border, and padding */
 html, body {
     margin: 0;
     border: 0;
@@ -12,8 +11,17 @@ body {
     background-color: whitesmoke;
 }
 
+a {
+    color: mediumblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 header, main, footer {
-    margin: auto;
+    margin: auto; /* Center */
     padding-left: 1rem;
     padding-right: 1rem;
     max-width: 40rem;
@@ -21,11 +29,12 @@ header, main, footer {
 }
 
 header {
-    padding-top: 1rem;
+    margin-top: 1rem;
+    text-align: left;
 }
 
 footer {
-    padding-bottom: 1rem;
+    margin-bottom: 1rem;
     text-align: right;
 }
 
@@ -37,13 +46,4 @@ footer img {
 
 h1 {
     border-bottom: 1.5px solid mediumblue;
-}
-
-a {
-    color: mediumblue;
-    text-decoration: underline;
-}
-
-a:hover {
-    text-decoration: orangered underline;
 }
