@@ -12,10 +12,11 @@ body {
 
 a {
     color: mediumblue;
+    text-decoration: none;
 }
 
 a:hover {
-    color: blue;
+    text-decoration: underline;
 }
 
 header, main, footer {
