@@ -10,15 +10,8 @@
     font-family: InterVariable;
     font-style: normal;
     font-weight: 100 900;
-    font-display: swap;
+    font-display: auto;
     src: url("InterVariable.woff2") format("woff2");
-}
-@font-face {
-    font-family: InterVariable;
-    font-style: italic;
-    font-weight: 100 900;
-    font-display: swap;
-    src: url("InterVariable-Italic.woff2") format("woff2");
 }
 body {
     margin: 0;
@@ -31,11 +24,13 @@ body {
     background-image: radial-gradient(var(--bg-dots-color) 1px, transparent 0);
     background-size: 8px 8px;
 }
-h1 {font-size: calc(var(--font-size) * 2);}
+h1 {
+    font-size: calc(var(--font-size) * 2);
+}
 a {
     color: var(--link-color);
 }
-.content {
+.container {
     max-width: 425px;
     margin: 32px auto;
     text-align: center;
