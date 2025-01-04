@@ -5,6 +5,7 @@
     --font-size: 16px;
     --button-font-size: 20px;
     --bg-dots-color: #ffffff05;
+    --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 @font-face {
     font-family: InterVariable;
@@ -17,7 +18,7 @@ body {
     margin: 0;
     border: 0;
     padding: 0;
-    font-family: InterVariable, sans-serif;
+    font-family: var(--system-ui);
     font-size: var(--font-size);
     color: var(--main-color);
     background-color: var(--bg-color);
