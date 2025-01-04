@@ -3,26 +3,16 @@
     --main-color: #ffffffe6;
     --link-color: var(--main-color);
     --font-size: 16px;
-    --button-font-size: 20px;
     --bg-dots-color: #ffffff05;
-    --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-}
-@font-face {
-    font-family: InterVariable;
-    font-style: normal;
-    font-weight: 100 900;
-    font-display: auto;
-    src: url("InterVariable.woff2") format("woff2");
+    --main-font: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 body {
     margin: 0;
-    border: 0;
     padding: 0;
-    font-family: var(--system-ui);
+    font-family: var(--main-font);
     font-size: var(--font-size);
     color: var(--main-color);
-    background-color: var(--bg-color);
-    background-image: radial-gradient(var(--bg-dots-color) 1px, transparent 0);
+    background: var(--bg-color) radial-gradient(var(--bg-dots-color) 1px, transparent 0);
     background-size: 8px 8px;
 }
 h1 {
@@ -36,12 +26,12 @@ a {
     margin: 32px auto;
     text-align: center;
 }
-.profile_picture {
+.prof_pic {
     border-radius: 50%;
     max-width: 250px;
     max-height: 100%;
 }
-.button {
+.btn {
     display: grid;
     grid-auto-flow: column;
     grid-auto-columns: 56px auto;
@@ -51,23 +41,23 @@ a {
     max-width: 90%;
     min-height: 48px;
     margin: 16px auto;
-    font-size: var(--button-font-size);
+    font-size: calc(var(--font-size) * 1.25);
     text-decoration: none;
     white-space: nowrap;
     overflow: hidden;
 }
-.button:hover {
+.btn:hover {
     border-color: var(--link-color);
     color: var(--bg-color);
     background-color: var(--link-color);
 }
-.button .img {
+.btn_img {
     padding-left: 8px;
     display: flex;
     align-items: center;
     margin: auto;
 }
-.button .text {
+.btn_txt {
     display: flex;
     align-items: center;
     margin: auto;
