@@ -25,6 +25,8 @@ a {
     max-width: 425px;
     margin: 32px auto;
     text-align: center;
+    padding-left: 4px;
+    padding-right: 4px;
 }
 .prof_pic {
     border-radius: 50%;
