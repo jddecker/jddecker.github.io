@@ -1,0 +1,4 @@
+user-agent: *
+Allow: /
+
+Sitemap: https://jddecker.com/sitemap.txt
