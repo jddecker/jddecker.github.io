@@ -54,13 +54,13 @@ a {
     color: var(--bg-color);
     background-color: var(--link-color);
 }
-.btn_img {
+.btn-img {
     padding-left: 8px;
     display: flex;
     align-items: center;
     margin: auto;
 }
-.btn_txt {
+.btn-txt {
     display: flex;
     align-items: center;
     margin: auto;
