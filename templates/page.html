@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta property="og:title" content="{{ page.title }} - Jeffrey David Decker">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ page.permalink | safe }}">
+    {% if page.extra.og_image %}<meta property="og:image" content="{{ page.permalink ~ page.extra.og_image | safe }}">{% endif %}
+    {% if page.extra.og_image_alt %}<meta property="og:image:alt" content="{{ page.extra.og_image_alt }}">{% endif %}
+    {% if page.description %}<meta property="og:description" content="{{ page.description }}">{% endif %}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <title>{{ page.title }} - Jeffrey David Decker</title>
+</head>
+<body>
+    <header class="container">
+        <nav aria-label="breadcrumb">
+            <ul>
+                <li><a href="/">Jeffrey David Decker</a></li>
+                {% set sec = get_section(path=page.ancestors | last) %}<li><a href="{{ sec.path | safe }}">{{ sec.title }}</a></li>
+                <li><a href="{{ page.path | safe }}">{{ page.title }}</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="container">
+        <hgroup>
+            <h1>{{ page.title }}</h1>
+            {% if page.updated %}
+                <p>Updated: {{ page.updated | date(format="%b %-e, %Y") }} <small>(Orig pub: {{ page.date | date(format="%b %-e, %Y") }})</small></p>
+            {% else %}
+                <p>Published: {{ page.date | date(format="%b %-e, %Y") }}</p>
+            {% endif %}
+        </hgroup>
+        {{ page.content | safe }}
+    </main>
+    <footer class="container footer">
+        <p><small>Made with 💪 by Jeffrey David Decker</small></p>
+    </footer>
+</body>
+</html>
