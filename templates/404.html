@@ -14,7 +14,7 @@
 <body>
     <main class="container">
             <h1>404 Not Found</h1>
-            <p>Page not found. <a href="{{ config.base_url }}">Return to the homepage here.</a></p>
+            <p><a href="{{ config.base_url | safe }}">Return to the homepage here.</a></p>
     </main>
     <footer class="container footer">
         <p><small>Made with 💪 by Jeffrey David Decker</small></p>
