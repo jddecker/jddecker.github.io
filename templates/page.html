@@ -32,11 +32,12 @@
         <hgroup>
             <h1>{{ page.title }}</h1>
             {% if page.updated %}
-                <p>Updated: {{ page.updated | date(format="%b %-e, %Y") }} <small>(Orig pub: {{ page.date | date(format="%b %-e, %Y") }})</small></p>
+                <p>Updated: {{ page.updated | date(format="%b %-e, %Y") }} (Published: {{ page.date | date(format="%b %-e, %Y") }})</p>
             {% else %}
                 <p>Published: {{ page.date | date(format="%b %-e, %Y") }}</p>
             {% endif %}
         </hgroup>
+        {% if page.description %}<p><small>{{ page.description }}</small></p>{% endif %}
         {{ page.content | safe }}
     </main>
     <footer class="container footer">
