@@ -15,6 +15,14 @@
     text-align: center;
 }
 .og-img {
-    max-width: 250px;
-    max-height: 250px;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.blog-post img {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }

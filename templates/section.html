@@ -31,6 +31,7 @@
         <p>{{ section.description }}</p>
             {% for page in section.pages %}
                 <article>
+                    {% if page.extra.og_image %}<p><a href="{{ page.path | safe }}"><img src="{{ page.path ~ page.extra.og_image | safe }}" class="og-img"{% if page.extra.og_image_alt %} alt="{{ page.extra.og_image_alt }}"{% endif %}></a></p>{% endif %}
                     <hgroup>
                         <h2><a href="{{ page.path | safe }}">{{ page.title }}</a></h2>
                         {% if page.updated %}
@@ -39,7 +40,6 @@
                             <p>Published: {{ page.date | date(format="%b %-e, %Y") }}</p>
                         {% endif %}
                     </hgroup>
-                    {% if page.extra.og_image %}<p><a href="{{ page.path | safe }}"><img src="{{ page.path ~ page.extra.og_image | safe }}" class="og-img"{% if page.extra.og_image_alt %} alt="{{ page.extra.og_image_alt }}"{% endif %}></a></p>{% endif %}
                     {% if page.description %}<p>{{ page.description }}</p>{% endif %}
                 </article>
             {% endfor %}
