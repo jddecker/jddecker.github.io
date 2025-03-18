@@ -1,5 +1,5 @@
 +++
 title = "Blog"
-description = "Ramblings by Jeffrey David Decker"
+description = "Random thoughts, ramblings, etc"
 sort_by = "update_date"
 +++
