@@ -72,4 +72,8 @@ jobs:
 
 Just drop this into a YAML file in `.github/workflows`. I called my file `zola.yml`.
 
+Then set your Github Pages settings to *deploy from a branch* and set that branch to *gh-pages* and the *root* folder.
+
+![Screenshot of the deploy from a branch setting](deploy%20from%20a%20branch.webp)
+
 After you push your files to Github, then the action should create a branch called gh-pages and your site should be visible online.
