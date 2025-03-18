@@ -49,7 +49,7 @@ I've been hosting my Linktree-style personal site on GitHub Pages, so I stuck wi
 
 Here is an example of what it looks like:
 
-```
+``` yaml
 name: Zola on GitHub Pages
 
 on: 
