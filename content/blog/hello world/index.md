@@ -36,10 +36,10 @@ You can output a variable's value with double curly brackets.
 I've been getting into smaller CSS frameworks. They make styling quick and easy. Some of my favorites are:
 
 * [MPV.css](https://andybrewer.github.io/mvp/)
-* [Pico.css](https://picocss.com/)
-* [Pure](https://purecss.io/)
+* [Pico CSS](https://picocss.com/)
+* [Pure.css](https://purecss.io/)
 * [Sakura](https://oxal.org/projects/sakura/)
-* [Simple](https://simplecss.org/)
+* [Simple.css](https://simplecss.org/)
 
 For this blog, I went with Pico.css. I like its solid default styling, plus it's easy to tweak colors if needed.
 
@@ -70,7 +70,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Just drop this into a YAML file in `.github/workflows`. I called my file `zola.yml`.
+Just drop this into a YAML file in `.github/workflows`. I called my file `zola-build.yml`.
 
 Then set your Github Pages settings to *deploy from a branch* and set that branch to *gh-pages* and the *root* folder.
 
