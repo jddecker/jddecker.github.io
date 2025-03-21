@@ -41,7 +41,7 @@ I've been getting into smaller CSS frameworks. They make styling quick and easy.
 * [Sakura](https://oxal.org/projects/sakura/)
 * [Simple.css](https://simplecss.org/)
 
-For this blog, I went with Pico.css. I like its solid default styling, plus it's easy to tweak colors if needed.
+For this blog, I went with Pico CSS. I like its solid default styling, plus it's easy to tweak colors if needed.
 
 ## Hosting
 
