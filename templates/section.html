@@ -31,9 +31,9 @@
     </header>
     <main class="container">
         <h1>{{ section.title }}</h1>
-        <p>{{ section.description }}</p>
+        {% if section.description %}<p>{{ section.description }}</p>{% endif %}
             {% for page in section.pages %}
-                <article>
+                <article class="blog-list">
                     {% if page.extra.og_image %}<p><a href="{{ page.path | safe }}"><img src="{{ page.path ~ page.extra.og_image | safe }}" class="og-img"{% if page.extra.og_image_alt %} alt="{{ page.extra.og_image_alt }}"{% endif %}></a></p>{% endif %}
                     <hgroup>
                         <h2><a href="{{ page.path | safe }}">{{ page.title }}</a></h2>
