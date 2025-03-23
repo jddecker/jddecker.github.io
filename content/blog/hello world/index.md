@@ -1,6 +1,6 @@
 +++
 title = "Hello World 👋"
-description = "Learning to use Zola and setting up my blog"
+description = "Learning to use Zola and setting up my blog."
 date = 2025-03-17
 draft = false
 
