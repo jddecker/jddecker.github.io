@@ -33,7 +33,9 @@ If you don't have time to properly learn Japanese, just focus on these key phras
 2. **[Arigato Gozaimasu](https://www.youtube.com/watch?v=wYPEdMdyMLg)** - A polite way to say *thank you*. Perfect for everyday interactions, especially with store staff or restaurant servers.
 3. **[Onegaishimasu](https://www.youtube.com/watch?v=GUgfrtPTBGo)** - A formal way to say *please*, often used when ordering food. Just point to an item on the menu and say, *onegaishimasu.*
 
-## Essential Phone Apps
+## Using Your Phone
+
+### Essential Apps
 
 ![Yoda with caption "learn to use your phone you must"](learn%20to%20use%20your%20phone.webp)
 
@@ -42,6 +44,20 @@ Along with **Google Maps** and **Google Translate** (download offline maps and J
 * **[NERV](https://nerv.app/en/)** - A disaster prevention app that provides real-time alerts for earthquakes, tsunamis, and other emergencies. Set it up and enable notifications.
 * **[GO Taxi](https://go.goinc.jp/lp/inbound)** - A widely used taxi-hailing app in Japan, similar to Uber or Lyft. Enter your destination, set your pickup location, and a taxi will come to you. Credit cards are accepted in-app.
 * **[Suikakeibo](https://suikakeibo.jp/en)** - A Suica card balance checker. Only needed if you're using a **physical** Suica card, as mobile Suica users can check their balance in their phone's wallet app.
+
+### Getting Phone Data  
+
+If your phone is **unlocked** and supports **eSIM**, I highly recommend using one of these providers:  
+
+* **[Ubigi](https://www.ubigi.com/)** - My personal choice.
+* **[Airalo](https://www.airalo.com/)** - A popular option that many travelers recommend.
+
+If your phone **doesn't support eSIM**, you have two main options:  
+
+* **Check with your carrier** for international roaming plans.
+* **Rent a pocket WiFi device**, such as one from [Japan Wireless](https://www.japan-wireless.com/en).
+
+I've always used an eSIM, so I don't have firsthand experience with the other options, but they are commonly used by travelers.
 
 ## Getting Around Tokyo
 
@@ -52,8 +68,8 @@ Along with **Google Maps** and **Google Translate** (download offline maps and J
 To pay for trains and buses, you have a few options:
 
 * **Paper Tickets** - Available at ticket machines, but not recommended due to the hassle.
-* **IC Cards** (Suica, Pasmo, etc.) – Convenient rechargeable transit cards.
-* **Mobile Suica** (iPhone only for travelers) – The Suica app works on iPhones but is only available on Android phones sold in Japan.
+* **IC Cards** (Suica, Pasmo, etc.) - Convenient rechargeable transit cards.
+* **Mobile Suica** (iPhone only for travelers) - The Suica app works on iPhones but is only available on Android phones sold in Japan.
 
 I always use the **Welcome Suica** physical card. It works like a regular Suica card but has some key differences:
 
@@ -108,3 +124,6 @@ These are other sources for great information on traveling in Tokyo and the rest
     * **[PremierTwo](https://www.twitch.tv/premiertwo)** - IRL streams capturing life in Japan, from city walks to train rides and events.
     * **[CDawgVA](https://www.twitch.tv/cdawgva)** - Fun, chaotic adventures in Japan, from biking cross-country to exploring niche subcultures.
     * **[robcdee](https://www.twitch.tv/robcdee)** - IRL streams featuring humor, spontaneous interactions, and deep dives into Tokyo's hidden gems.
+* Forums:  
+    * **[r/JapanTravelTips](https://www.reddit.com/r/JapanTravelTips/)** - A helpful subreddit where travelers share tips, itineraries, and experiences. There's a lot of useful information, but keep in mind that recommendations can vary based on personal preferences.
+    * **[r/JapanTravel](https://www.reddit.com/r/JapanTravel)** - One of the biggest Japan travel subreddits, great for general questions, itinerary help, and travel updates.
