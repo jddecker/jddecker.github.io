@@ -2,6 +2,7 @@
 title = "Surviving Tokyo: Quick Travel Tips"
 description = "Tokyo is easier than it looks."
 date = 2025-03-23
+updated = 2025-03-24
 draft = false
 
 [extra]
@@ -11,7 +12,7 @@ og_image_alt = "Close up of plum blossoms with the rest of the tree blurry in th
 
 ![Close up of plum blossoms with the rest of the tree blurry in the background](plum%20blossoms.webp)
 
-Tokyo might seem overwhelming at first, but it's actually a very easy city to explore. With a little preparation, you'll find it convenient, efficient, and full of incredible experiences. These tips come from my own experiences traveling to Tokyo, and while they've worked well for me, everyone's trip might be a little different. Hopefully, they help you navigate the city with confidence and make the most of your visit!
+Tokyo might seem overwhelming at first, but it's actually a very easy city to explore. From my perspective as someone traveling from the USA, you'll find it convenient, efficient, and full of incredible experiences. These tips come from my own experiences traveling to Tokyo, and while they've worked well for me, everyone's trip might be a little different. Hopefully, they help you navigate the city with confidence and make the most of your visit!
 
 ## Etiquette
 
@@ -107,6 +108,22 @@ I've marked key details for navigating the metro:
 * Google Maps often suggests the best train car for a quick exit (optional but helpful).
 * Get off at **Otemachi Sta. (M18)**.
 * Exit via **C13a**. If you don't see it, follow signs for **Marunouchi District Gate**.
+
+## Quick Tips
+
+Here are some final quick tips:
+
+* Pack light if you can.
+* Bring some Japanese Yen. You’ll likely need cash at some point. *I tend to spend around ¥10,000 per person per week.*
+* Always carry your passport. It’s your official ID in Japan, and authorities can request to see it.
+* Be prepared for lots of walking and stairs (wear comfortable shoes or whatever works for you).
+* Bathrooms in Japan are great, but the ones in shopping centers, restaurants, and hotels tend to be the best.
+* Bring hand sanitizer in case a public bathroom doesn’t have soap.
+* Pack your suitcase inside another suitcase so you can bring back two if you shop a lot.
+* Stay within a 5-10 minute walk of a Tokyo Metro or JR line for easy access to transit.
+* When given the option to pay in Japanese Yen or US Dollars, choose Yen. With 1 USD ≈ 150 JPY as of this writing, you'll usually get a better deal.
+* Bring deodorant. Good options are harder to find in Japan.
+* Fill out your customs form in advance through [Japan Web](https://www.vjw.digital.go.jp/) and use the QR code at customs instead of handwriting a form.
 
 ## Other Sources
 
