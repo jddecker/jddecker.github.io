@@ -114,11 +114,11 @@ I've marked key details for navigating the metro:
 Here are some final quick tips:
 
 * Pack light if you can.
-* Bring some Japanese Yen. You’ll likely need cash at some point. *I tend to spend around ¥10,000 per person per week.*
-* Always carry your passport. It’s your official ID in Japan, and authorities can request to see it.
+* Bring some Japanese Yen. You'll likely need cash at some point. *I tend to spend around ¥10,000 per person per week.*
+* Always carry your passport. It's your official ID in Japan, and authorities can request to see it.
 * Be prepared for lots of walking and stairs (wear comfortable shoes or whatever works for you).
 * Bathrooms in Japan are great, but the ones in shopping centers, restaurants, and hotels tend to be the best.
-* Bring hand sanitizer in case a public bathroom doesn’t have soap.
+* Bring hand sanitizer in case a public bathroom doesn't have soap.
 * Pack your suitcase inside another suitcase so you can bring back two if you shop a lot.
 * Stay within a 5-10 minute walk of a Tokyo Metro or JR line for easy access to transit.
 * When given the option to pay in Japanese Yen or US Dollars, choose Yen. With 1 USD ≈ 150 JPY as of this writing, you'll usually get a better deal.
