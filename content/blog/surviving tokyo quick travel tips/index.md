@@ -1,6 +1,6 @@
 +++
 title = "Surviving Tokyo: Quick Travel Tips"
-description = "Tokyo is easier than it looks."
+description = "Tokyo might seem overwhelming, but it's easier than you think. Here are my quick travel tips from my own experiences."
 date = 2025-03-23
 updated = 2025-03-24
 draft = false
