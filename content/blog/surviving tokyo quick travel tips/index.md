@@ -114,7 +114,7 @@ I've marked key details for navigating the metro:
 Here are some final quick tips:
 
 * Pack light if you can.
-* Bring some Japanese Yen. You'll likely need cash at some point. *I tend to spend around ¥10,000 per person per week.*
+* Bring some Japanese Yen in cash. Credit cards are accepted in many places, but you'll likely need physical cash at some point. *I tend to spend around ¥10,000 per person per week in cash.*
 * Always carry your passport. It's your official ID in Japan, and authorities can request to see it.
 * Be prepared for lots of walking and stairs (wear comfortable shoes or whatever works for you).
 * Bathrooms in Japan are great, but the ones in shopping centers, restaurants, and hotels tend to be the best.
