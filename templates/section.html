@@ -38,7 +38,7 @@
                     <hgroup>
                         <h2><a href="{{ page.path | safe }}">{{ page.title }}</a></h2>
                         {% if page.updated %}
-                            <p>Updated: {{ page.updated | date(format="%b %-e, %Y") }}</p>
+                            <p>Last updated: {{ page.updated | date(format="%b %-e, %Y") }}</p>
                         {% else %}
                             <p>Published: {{ page.date | date(format="%b %-e, %Y") }}</p>
                         {% endif %}
