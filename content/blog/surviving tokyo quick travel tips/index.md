@@ -10,7 +10,9 @@ og_image = "og%20plum%20blossoms.webp"
 og_image_alt = "Close up of plum blossoms with the rest of the tree blurry in the background"
 +++
 
-![Close up of plum blossoms with the rest of the tree blurry in the background](plum%20blossoms.webp)
+{% figcap(img="plum%20blossoms.webp", alt="Close up of plum blossoms with the rest of the tree blurry in the background") %}
+Plum blossoms in Japan are just as beautiful as cherry blossoms
+{% end %}
 
 Tokyo might seem overwhelming at first, but it's actually a very easy city to explore. From my perspective as someone traveling from the USA, you'll find it convenient, efficient, and full of incredible experiences. These tips come from my own experiences traveling to Tokyo, and while they've worked well for me, everyone's trip might be a little different. Hopefully, they help you navigate the city with confidence and make the most of your visit!
 

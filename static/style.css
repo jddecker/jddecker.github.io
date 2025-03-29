@@ -31,3 +31,6 @@
     margin-left: auto;
     margin-right: auto;
 }
+.blog-post figcaption {
+    text-align: center;
+}
