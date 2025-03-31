@@ -28,5 +28,19 @@ build_search_index = false
 # Theme can be customized by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
 
+# Configuration of the link checker.
+[link_checker]
+
+# Skip link checking for external URLs that start with these prefixes
+skip_prefixes = [
+    "https://www.vjw.digital.go.jp",
+]
+
+# Treat internal link problems as either "error" or "warn", default is "error"
+internal_level = "error"
+
+# Treat external link problems as either "error" or "warn", default is "error"
+external_level = "warn"
+
 [extra]
 # Put all your custom variables here
