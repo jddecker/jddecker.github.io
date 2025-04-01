@@ -10,8 +10,13 @@
     {% if page.updated %}<meta property="og:article:modified_time" content="{{ page.updated }}">{% endif %}
     <meta property="og:article:author" content="Jeffrey David Decker">
     <meta property="og:url" content="{{ page.permalink | safe }}">
-    {% if page.extra.og_image %}<meta property="og:image" content="{{ page.permalink ~ page.extra.og_image | safe }}">{% endif %}
-    {% if page.extra.og_image_alt %}<meta property="og:image:alt" content="{{ page.extra.og_image_alt }}">{% endif %}
+    {% if page.extra.og_image %}
+        <meta property="og:image" content="{{ page.permalink ~ page.extra.og_image | safe }}">
+        {% if page.extra.og_image_alt %}<meta property="og:image:alt" content="{{ page.extra.og_image_alt }}">{% endif %}
+    {% else %}
+        <meta property="og:image" content="https://www.jddecker.com/og.webp">
+        <meta property="og:image:alt" content="A stylized image of code, representing Jeffrey David Decker's website">
+    {% endif %}
     {% if page.description %}<meta property="og:description" content="{{ page.description }}">{% endif %}
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
     <link rel="stylesheet" href="/style.css">

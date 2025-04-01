@@ -5,11 +5,11 @@ date = 2025-03-17
 draft = false
 
 [extra]
-og_image = "og%20code.webp"
-og_image_alt = "Showing computer code slightly blurred and at an angle"
+og_image = "/og%20code.webp"
+og_image_alt = "A stylized image of code, representing Jeffrey David Decker's website"
 +++
 
-![Showing computer code slightly blurred and at an angle](code.webp)
+![A stylized image of code, representing Jeffrey David Decker's website](code.webp)
 
 I'd been toying with the idea of using a static site generator (SSG) for my personal website. [Jamstack](https://jamstack.org/generators/) has a ranked index of them.
 
