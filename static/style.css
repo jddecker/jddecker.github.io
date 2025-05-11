@@ -25,14 +25,17 @@ html {
 }
 .blog-post img {
     max-width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
 }
 .blog-list {
     max-width: 768px;
     margin-left: auto;
     margin-right: auto;
+}
+.blog-post img, .blog-list img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 4px;
 }
 .blog-post figcaption {
     text-align: center;
