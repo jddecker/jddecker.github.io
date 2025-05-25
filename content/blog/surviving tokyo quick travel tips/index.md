@@ -1,8 +1,9 @@
 +++
 title = "Surviving Tokyo: Quick Travel Tips"
 description = "Tokyo might seem overwhelming, but it's easier than you think"
+toc = true
 date = 2025-03-23
-updated = 2025-03-24
+updated = 2025-05-25
 draft = false
 
 [extra]
@@ -54,6 +55,8 @@ If your phone is **unlocked** and supports **eSIM**, I highly recommend using on
 
 * **[Ubigi](https://www.ubigi.com/)** - My personal choice.
 * **[Airalo](https://www.airalo.com/)** - A popular option that many travelers recommend.
+
+If your phone supports dual SIM, you can use your regular SIM for calls and SMS while using your eSIM for data (most prepaid eSIM plans are data only). On my Pixel 7, this worked well as long as I had WiFi calling enabled. I believe this can be done on iOS as well, though I haven't tested it personally.
 
 If your phone **doesn't support eSIM**, you have two main options:  
 
