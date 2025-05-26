@@ -1,0 +1,53 @@
+html {
+    scroll-behavior: smooth;
+}
+.profile {
+    text-align: center;
+}
+.profile-pic {
+    border-radius: 50%;
+    max-width: 250px;
+}
+.profile-button {
+    width: 100%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.profile-icon {
+    float: left;
+    vertical-align: middle;
+}
+.profile-text {
+    font-weight: bold;
+    vertical-align: middle;
+}
+.footer {
+    text-align: center;
+}
+.og-img {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.blog-post img {
+    max-width: 90%;
+}
+.blog-list {
+    max-width: 768px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.blog-post img, .blog-list img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 4px;
+}
+.blog-post figcaption {
+    text-align: center;
+}
+.rss-feed {
+    text-align: center;
+}
