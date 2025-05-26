@@ -16,8 +16,10 @@ html {
 }
 .profile-icon {
     float: left;
+    vertical-align: middle;
 }
 .profile-text {
+    font-weight: bold;
     vertical-align: middle;
 }
 .footer {
