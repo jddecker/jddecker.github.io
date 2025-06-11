@@ -20,21 +20,12 @@ html {
 .footer {
     text-align: center;
 }
-.og-img {
-    max-width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
-.blog-post img {
-    max-width: 90%;
-}
-.blog-list {
+.blog-item {
     max-width: 768px;
     margin-left: auto;
     margin-right: auto;
 }
-.blog-post img, .blog-list img {
+.blog-post img, .blog-item img {
     margin-left: auto;
     margin-right: auto;
     display: block;
