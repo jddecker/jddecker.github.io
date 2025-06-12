@@ -3,7 +3,7 @@ title = "Surviving Tokyo: Quick Travel Tips"
 description = "Tokyo might seem overwhelming, but it's easier than you think"
 toc = true
 date = 2025-03-23
-updated = 2025-05-25
+updated = 2025-06-11
 draft = false
 
 [extra]
@@ -23,9 +23,9 @@ Tokyo might seem overwhelming at first, but it's actually a very easy city to ex
 
 There are tons of videos and articles about Japanese etiquette, many of which are accurate but not all essential for travelers. Here are the most important things to keep in mind:
 
-1. **Don't be loud** - Japan is generally a quiet country. If others around you are quiet, match that energy.
-2. **Don't talk on your cell phone in public** - Similar to the first rule, speaking on your phone in trains and other public spaces is considered rude. If you need to take a call, step away to a secluded area.
-3. **Use the money tray** - When paying at a store or restaurant, place your money or card on the small tray at the counter instead of handing it directly to the cashier. If there's no tray, use both hands when giving or receiving money.
+1. **Don't be loud** - Japan is generally a quiet country. If others around you are quiet, match that sound level. This is the #1 rule!
+2. **Respect local rules** - Even if they seem odd, follow them. Japan values rules and order. So no eating on trains or standing on white lines in train stations.
+3. **Blend in locally** - Do what others do. For example, walk on the left side of sidewalks (except for Osaka, which is to the right) or face forward while sitting on trains to avoid standing out.
 
 ## Japanese to Know
 
