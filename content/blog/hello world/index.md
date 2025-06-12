@@ -31,9 +31,13 @@ You can output a variable's value with double curly brackets.
 
 `{{ foo }}`
 
+Using Zola is as easy as visiting [GetZola.org](https://www.getzola.org/) and following the instructions.
+
 ## Styling
 
-I've been getting into smaller CSS frameworks. They make styling quick and easy. Some of my favorites are:
+I've been exploring lightweight CSS frameworks for my projects. These tools make styling websites quick and easy.
+
+Some of my favorites are:
 
 * [MPV.css](https://andybrewer.github.io/mvp/)
 * [Pico CSS](https://picocss.com/)
@@ -41,11 +45,13 @@ I've been getting into smaller CSS frameworks. They make styling quick and easy.
 * [Sakura](https://oxal.org/projects/sakura/)
 * [Simple.css](https://simplecss.org/)
 
-For this blog, I went with Pico CSS. I like its solid default styling, plus it's easy to tweak colors if needed.
+For this blog, I chose Pico CSS. Its clean default styles and ease of customization made it a good choice. Plus adjusting colors or layouts is straightforward when needed.
+
+Pico CSS can be implemented by downloading the file or via their CDN. [PicoCSS.com](https://picocss.com/) has instructions.
 
 ## Hosting
 
-I've been hosting my Linktree-style personal site on GitHub Pages, so I stuck with that. A nice perk is that a GitHub Action can build and deploy the site on push. You can find it [here](https://github.com/marketplace/actions/zola-deploy-to-pages).
+I had been hosting my Linktree-style personal site on [GitHub Pages](https://pages.github.com/), so I stuck with that. A nice perk is that a GitHub Action can build and deploy the site on push. You can find it [here](https://github.com/marketplace/actions/zola-deploy-to-pages).
 
 Here is an example of what it looks like:
 
