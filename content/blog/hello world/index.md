@@ -45,15 +45,15 @@ Some of my favorites are:
 * [Sakura](https://oxal.org/projects/sakura/)
 * [Simple.css](https://simplecss.org/)
 
-For this blog, I chose Pico CSS. Its clean default styles and ease of customization made it a good choice. Plus adjusting colors or layouts is straightforward when needed.
+For this blog, I chose Pico CSS. I hadn't used it in a project yet, and it's one of the most popular lightweight frameworks out there. I had used MPV.css recently and liked it, but didn't feel like it fit this blog, and the default styles in Simple.css weren't really jibing with me for this project either. Pico CSS's clean default styles and ease of customization made it a good choice. Plus adjusting colors or layouts is straightforward when needed.
 
 Pico CSS can be implemented by downloading the file or via their CDN. [PicoCSS.com](https://picocss.com/) has instructions.
 
 ## Hosting
 
-I had been hosting my Linktree-style personal site on [GitHub Pages](https://pages.github.com/), so I stuck with that. A nice perk is that a GitHub Action can build and deploy the site on push. You can find it [here](https://github.com/marketplace/actions/zola-deploy-to-pages).
+I had been hosting my Linktree-style personal site on [GitHub Pages](https://pages.github.com/), so I stuck with that. A nice perk is that GitHub Actions can be used to build and deploy the site on a git push. You can find an example of the GitHub Action for building a Zola site [here](https://github.com/marketplace/actions/zola-deploy-to-pages).
 
-Here is an example of what it looks like:
+This is an example of what it looks like when I wrote this article:
 
 ``` yaml
 name: Zola on GitHub Pages
@@ -61,7 +61,7 @@ name: Zola on GitHub Pages
 on: 
  push:
   branches:
-   - main
+   - main  # Trigger on pushes to the main branch
 
 jobs:
   build:
@@ -69,16 +69,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout main
-      uses: actions/checkout@v4
+      uses: actions/checkout@v4  # check out the repository code
     - name: Build and deploy
-      uses: shalzz/zola-deploy-action@v0.20.0
+      uses: shalzz/zola-deploy-action@v0.20.0  # Uses Zola to build the site
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
 Just drop this into a YAML file in `.github/workflows`. I called my file `zola-build.yml`.
 
-Then set your Github Pages settings to *deploy from a branch* and set that branch to *gh-pages* and the *root* folder.
+Then set your Github Pages settings to *deploy from a branch* and set that branch to *gh-pages* and the *root* folder. I couldn't find a way to have it build to a folder in the main branch and have the site work, but GitHub Pages allows you to put your static website files in a branch called *gh-pages* to have your site visible to the public.
 
 ![Screenshot of the deploy from a branch setting](deploy%20from%20a%20branch.webp)
 
