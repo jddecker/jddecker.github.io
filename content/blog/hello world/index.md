@@ -6,12 +6,12 @@ draft = false
 
 [extra]
 og_image = "og.webp"
-og_image_alt = "A stylized image of code, representing Jeffrey David Decker's website"
+og_image_alt = "Stylized code image representing Jeffrey David Decker's website"
 +++
 
-![A stylized image of code, representing Jeffrey David Decker's website](code.webp)
+![Stylized code image representing Jeffrey David Decker's website](code.webp)
 
-I'd been toying with the idea of using a static site generator (SSG) for my personal website. [Jamstack](https://jamstack.org/generators/) has a ranked index of them.
+After years of having a simple Linktree style website, I finally decided to expand my online presence with a blog using a static site generator. This post walks through my journey of choosing Zola, styling with Pico CSS, and deploying on GitHub Pages.
 
 I wanted an SSG that:
 
@@ -80,6 +80,10 @@ Just drop this into a YAML file in `.github/workflows`. I called my file `zola-b
 
 Then set your Github Pages settings to *deploy from a branch* and set that branch to *gh-pages* and the *root* folder. I couldn't find a way to have it build to a folder in the main branch and have the site work, but GitHub Pages allows you to put your static website files in a branch called *gh-pages* to have your site visible to the public.
 
-![Screenshot of the deploy from a branch setting](deploy%20from%20a%20branch.webp)
+![GitHub Pages settings: 'Deploy from a branch' configuration](deploy%20from%20a%20branch.webp)
 
 After you push your files to Github, then the action should create a branch called gh-pages and your site should be visible online.
+
+## Conclusion
+
+Setting up this blog with Zola and Pico CSS has been smooth and rewarding. If you're exploring SSGs or lightweight CSS frameworks, I hope this helps!
