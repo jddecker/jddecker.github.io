@@ -1,0 +1,39 @@
+html {
+    scroll-behavior: smooth;
+}
+.profile {
+    text-align: center;
+}
+.profile-pic {
+    border-radius: 50%;
+    max-width: 250px;
+}
+.profile-button {
+    width: 100%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.profile-text {
+    font-weight: bold;
+}
+.footer {
+    text-align: center;
+}
+.blog-item {
+    max-width: 768px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.blog-post img, .blog-item img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 4px;
+}
+.blog-post figcaption {
+    text-align: center;
+}
+.rss-feed {
+    text-align: center;
+}
