@@ -5,7 +5,7 @@ date = 2025-03-17
 draft = false
 
 [extra]
-og_image = "/og%20code.webp"
+og_image = "og.webp"
 og_image_alt = "A stylized image of code, representing Jeffrey David Decker's website"
 +++
 
