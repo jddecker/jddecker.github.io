@@ -3,7 +3,7 @@ title = "Surviving Tokyo: Quick Travel Tips"
 description = "Tokyo might seem overwhelming, but it's easier than you think"
 toc = true
 date = 2025-03-23
-updated = 2025-06-11
+updated = 2025-06-13
 draft = false
 
 [extra]
@@ -15,17 +15,17 @@ og_image_alt = "Close up of plum blossoms with the rest of the tree blurry in th
 Plum blossoms in Japan are just as beautiful as cherry blossoms
 {% end %}
 
-Tokyo might seem overwhelming at first, but it's actually a very easy city to explore. From my perspective as someone traveling from the USA, you'll find it convenient, efficient, and full of incredible experiences. These tips come from my own experiences traveling to Tokyo, and while they've worked well for me, everyone's trip might be a little different. Hopefully, they help you navigate the city with confidence and make the most of your visit!
+Tokyo can feel overwhelming at first, but trust me, it's easier than you think! Coming from the USA, I found it surprisingly convenient and efficient, full of incredible experiences. These tips are based on my own adventures in Tokyo, and while everyone's journey is different, I hope they give you the confidence to explore with ease and make the most of your trip.
 
-## Etiquette
+## A Little Etiquette Goes a Long Way
 
 ![Steve Carell yelling with caption "loud noises"](loud%20noises.webp)
 
-There are tons of videos and articles about Japanese etiquette, many of which are accurate but not all essential for travelers. Here are the most important things to keep in mind:
+You'll find tons of articles about Japanese etiquette, and a lot of it's good advice. But here are the key things to keep in mind for a smooth experience:
 
-1. **Don't be loud** - Japan is generally a quiet country. If others around you are quiet, match that sound level. This is the #1 rule!
-2. **Respect local rules** - Even if they seem odd, follow them. Japan values rules and order. So no eating on trains or standing on white lines in train stations.
-3. **Blend in locally** - Do what others do. For example, walk on the left side of sidewalks (except for Osaka, which is to the right) or face forward while sitting on trains to avoid standing out.
+1. **Keep the noise down** - Japan is a pretty quiet country. Try to match the sound level around you. This is really the biggest thing.
+2. **Follow the rules** - They're there for a reason! Even if something seems odd, go with the flow. No eating on trains, and be sure to stand behind the yellow line at train stations.
+3. **Blend in (a little)** - Just observing what others do can make a big difference. Walk on the left side of sidewalks (except in Osaka!) and face forward on trains.
 
 ## Japanese to Know
 
@@ -33,30 +33,30 @@ There are tons of videos and articles about Japanese etiquette, many of which ar
 
 If you don't have time to properly learn Japanese, just focus on these key phrases. They'll take you far.
 
-1. **[Sumimasen](https://www.youtube.com/watch?v=EpGcxg9i0QI)** - A versatile word meaning *excuse me* or *sorry*. Use it to get someone's attention, lightly apologize, or navigate through a crowd. If you only learn one word, make it this one.
-2. **[Arigato Gozaimasu](https://www.youtube.com/watch?v=wYPEdMdyMLg)** - A polite way to say *thank you*. Perfect for everyday interactions, especially with store staff or restaurant servers.
-3. **[Onegaishimasu](https://www.youtube.com/watch?v=GUgfrtPTBGo)** - A formal way to say *please*, often used when ordering food. Just point to an item on the menu and say, *onegaishimasu.*
+1. **[Sumimasen](https://www.youtube.com/watch?v=EpGcxg9i0QI)** - This is your Swiss Army Knife! It means "excuse me" or "sorry". Use it to get someone's attention, apologize lightly, or navigate a crowded space. Seriously, learn this one.
+2. **[Arigato Gozaimasu](https://www.youtube.com/watch?v=wYPEdMdyMLg)** - A polite "thank you." Perfect for interacting with shop staff or restaurant servers.
+3. **[Onegaishimasu](https://www.youtube.com/watch?v=GUgfrtPTBGo)** - A more formal "please". Especially useful when ordering food. Just point to an item on the menu and say, "onegaishimasu".
 
-## Using Your Phone
+## Your Phone: Your Best Friend in Tokyo
 
 ### Essential Apps
 
 ![Yoda with caption "learn to use your phone you must"](learn%20to%20use%20your%20phone.webp)
 
-Along with **Google Maps** and **Google Translate** (download offline maps and Japanese for backup), these apps can make your trip smoother:
+Besides **Google Maps** and **Google Translate** (download offline maps and Japanese language!), these apps can really simplify things:
 
-* **[NERV](https://nerv.app/en/)** - A disaster prevention app that provides real-time alerts for earthquakes, tsunamis, and other emergencies. Set it up and enable notifications.
-* **[GO Taxi](https://go.goinc.jp/lp/inbound)** - A widely used taxi-hailing app in Japan, similar to Uber or Lyft. Enter your destination, set your pickup location, and a taxi will come to you. Credit cards are accepted in-app.
-* **[Suikakeibo](https://suikakeibo.jp/en)** - A Suica card balance checker. Only needed if you're using a **physical** Suica card, as mobile Suica users can check their balance in their phone's wallet app.
+* **[NERV](https://nerv.app/en/)** - A disaster prevention app that provides real-time alerts for earthquakes, tsunamis, and other emergencies. Set it up and turn on notifications.
+* **[GO Taxi](https://go.goinc.jp/lp/inbound)** - Like Uber or Lyft, this app makes hailing a taxi super easy. Enter your destination, set your pickup, and a taxi will come to you. Credit cards are accepted.
+* **[Suikakeibo](https://suikakeibo.jp/en)** - This is only if you're using a physical Suica card. If you have a mobile Suica (through your iPhone), you're covered and can check your balance in your phone's wallet.
 
-### Getting Phone Data  
+### Getting Data
 
-If your phone is **unlocked** and supports **eSIM**, I highly recommend using one of these providers:  
+If your phone is **unlocked** and supports **eSIM**, I highly recommend using one of these providers:
 
 * **[Ubigi](https://www.ubigi.com/)** - My personal choice.
 * **[Airalo](https://www.airalo.com/)** - A popular option that many travelers recommend.
 
-If your phone supports dual SIM, you can use your regular SIM for calls and SMS while using your eSIM for data (most prepaid eSIM plans are data only). On my Pixel 7, this worked well as long as I had WiFi calling enabled. I believe this can be done on iOS as well, though I haven't tested it personally.
+If you have a dual-SIM phone, you can use your regular SIM for calls and texts while using your eSIM for data. It's a great combo! I'm doing this on my Pixel 7 with WiFi calling enabled, and it works great. It should work on iOS too.
 
 If your phone **doesn't support eSIM**, you have two main options:  
 
@@ -65,7 +65,7 @@ If your phone **doesn't support eSIM**, you have two main options:
 
 I've always used an eSIM, so I don't have firsthand experience with the other options, but they are commonly used by travelers.
 
-## Getting Around Tokyo
+## Getting Around
 
 ### Paying for Transport
 
@@ -75,9 +75,9 @@ To pay for trains and buses, you have a few options:
 
 * **Paper Tickets** - Available at ticket machines, but not recommended due to the hassle.
 * **IC Cards** (Suica, Pasmo, etc.) - Convenient rechargeable transit cards.
-* **Mobile Suica** (iPhone only for travelers) - The Suica app works on iPhones but is only available on Android phones sold in Japan.
+* **Mobile Suica** (iPhone only for travelers) - The Suica app works on iPhones and Android phones purchased in Japan.
 
-I always use the **Welcome Suica** physical card. It works like a regular Suica card but has some key differences:
+I always use the **Welcome Suica** physical card. It's like a regular Suica but with these key differences:
 
 | Feature | Regular Suica | Welcome Suica |
 | --- | --- | --- |
@@ -86,9 +86,7 @@ I always use the **Welcome Suica** physical card. It works like a regular Suica 
 | Deposit | ❌ Required | ✔️ Not required |
 | Refunds | ✔️ Allowed | ❌ Not allowed |
 
-A **Welcome Suica** can be purchased with a credit card, but refills must be made in cash. Since refunds aren't possible, spend any remaining balance at convenience stores before you leave Japan.
-
-For a deeper dive, [PiQtour has a great article and video on Suica and IC cards](https://piqtour.com/iccards/).
+You buy a Welcome Suica with a credit card and add money to it. Just remember it expires after 28 days! You can't get a refund on any money left on it, so spend it at convenience stores before you leave. [PiQtour has a great article and video on Suica and IC cards](https://piqtour.com/iccards/).
 
 ### How to Navigate the Metro
 
@@ -102,7 +100,7 @@ I like to adjust a few settings for better results:
 * Change *filter by* to **Less walking** to prioritize routes with minimal walking.
 * Set *connecting modes* to **ride services** (turn off *drive* and *bicycle*).
 
-Here's an example of mapping from Shinjuku Gyoen National Garden to the Imperial Palace East Garden:
+For example, let's say you're going from Shinjuku Gyoen National Garden to the Imperial Palace East Garden:
 
 ![Google Maps example screenshot](google%20maps%20example.webp)
 
@@ -114,7 +112,7 @@ I've marked key details for navigating the metro:
 * Get off at **Otemachi Sta. (M18)**.
 * Exit via **C13a**. If you don't see it, follow signs for **Marunouchi District Gate**.
 
-## Quick Tips
+## Quick Tips for a Smooth Trip
 
 Here are some final quick tips:
 
@@ -130,9 +128,7 @@ Here are some final quick tips:
 * Bring deodorant. Good options are harder to find in Japan.
 * Fill out your customs form in advance through [Japan Web](https://www.vjw.digital.go.jp/) and use the QR code at customs instead of handwriting a form.
 
-## Other Sources
-
-These are other sources for great information on traveling in Tokyo and the rest of Japan.
+## More Resources
 
 * Websites:
     * **[Tokyo Cheapo](https://tokyocheapo.com/)** - A go-to resource for budget-friendly travel tips, including accommodations, dining, and activities.
