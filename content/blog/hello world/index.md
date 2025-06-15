@@ -13,7 +13,7 @@ og_image_alt = "Stylized code image representing Jeffrey David Decker's website"
 
 Hello 👋! As a computer enthusiast, I'm always looking for new ways to learn and experiment with programming, design, and engineering.
 
-This post walks through my journey of setting up this blog and choosing Zola, styling with Pico CSS, and deploying on GitHub Pages.
+This post walks through setting up this blog and choosing Zola for a platform, styling with Pico CSS, and deploying on GitHub Pages.
 
 ## Why I chose Zola
 
