@@ -11,7 +11,13 @@ og_image_alt = "Stylized code image representing Jeffrey David Decker's website"
 
 ![Stylized code image representing Jeffrey David Decker's website](code.webp)
 
-After years of having a simple Linktree style website, I finally decided to expand my online presence with a blog using a static site generator. This post walks through my journey of choosing Zola, styling with Pico CSS, and deploying on GitHub Pages.
+Hello 👋! As a computer enthusiast, I'm always looking for new ways to learn and experiment with programming, design, and engineering.
+
+This post walks through my journey of setting up this blog and choosing Zola, styling with Pico CSS, and deploying on GitHub Pages.
+
+## Why I chose Zola
+
+After years of having a simple Linktree style website, I finally decided to expand my online presence with a blog using a static site generator (known as SSG). SSGs are defined by usually using templates and then having a program compile the HTML, CSS, etc. all together to then be hosted on the Internet. This differs from a dynamic website where when you go to a page, code in the background generates the information, might pull it from a database, etc.
 
 I wanted an SSG that:
 
@@ -33,7 +39,7 @@ You can output a variable's value with double curly brackets.
 
 Using Zola is as easy as visiting [GetZola.org](https://www.getzola.org/) and following the instructions.
 
-## Styling
+## Pico CSS for Styling
 
 I've been exploring lightweight CSS frameworks for my projects. These tools make styling websites quick and easy.
 
@@ -49,7 +55,7 @@ For this blog, I chose Pico CSS. I hadn't used it in a project yet, and it's one
 
 Pico CSS can be implemented by downloading the file or via their CDN. [PicoCSS.com](https://picocss.com/) has instructions.
 
-## Hosting
+## Hosting on Github Pages
 
 I had been hosting my Linktree-style personal site on [GitHub Pages](https://pages.github.com/), so I stuck with that. A nice perk is that GitHub Actions can be used to build and deploy the site on a git push. You can find an example of the GitHub Action for building a Zola site [here](https://github.com/marketplace/actions/zola-deploy-to-pages).
 
