@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="dark">
+    <meta name="description" content="Learning to use Zola and setting up my blog">
+    <meta property="og:title" content="Hello World 👋 - Jeffrey David Decker">
+    <meta property="og:type" content="article">
+    <meta property="og:article:published_time" content="2025-03-17">
+    
+    <meta property="og:article:author" content="Jeffrey David Decker">
+    <meta property="og:url" content="https://www.jddecker.com/blog/hello-world/">
+    
+        <meta property="og:image" content="https://www.jddecker.com/blog/hello-world/og.webp">
+        <meta property="og:image:alt" content="Stylized code image representing Jeffrey David Decker&#x27;s website">
+    
+    <meta property="og:description" content="Learning to use Zola and setting up my blog">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <title>Hello World 👋 - Jeffrey David Decker</title>
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><strong>Jeffrey David Decker</strong></li>
+            </ul>
+            <ul>
+                <li><a href="/">About</a></li>
+                <li><a href="/blog/">Blog</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="container blog-post">
+        <hgroup>
+            <h1>Hello World 👋</h1>
+            <p>Learning to use Zola and setting up my blog</p>
+        </hgroup>
+        <p>Published: March 17, 2025</p>
+        
+            <details>
+                <summary role="button" class="outline secondary">Table of Contents</summary>
+                <article>
+                    <ul>
+                        
+                            <li>
+                                <a href="https://www.jddecker.com/blog/hello-world/#why-i-chose-zola">Why I chose Zola</a>
+                                
+                            </li>
+                        
+                            <li>
+                                <a href="https://www.jddecker.com/blog/hello-world/#pico-css-for-styling">Pico CSS for Styling</a>
+                                
+                            </li>
+                        
+                            <li>
+                                <a href="https://www.jddecker.com/blog/hello-world/#hosting-on-github-pages">Hosting on Github Pages</a>
+                                
+                            </li>
+                        
+                            <li>
+                                <a href="https://www.jddecker.com/blog/hello-world/#conclusion">Conclusion</a>
+                                
+                            </li>
+                        
+                    </ul>
+                </article>
+            </details>
+        
+        <p><img src="https://www.jddecker.com/blog/hello-world/code.webp" alt="Stylized code image representing Jeffrey David Decker&#39;s website" /></p>
+<p>Hello 👋! As a computer enthusiast, I'm always looking for new ways to learn and experiment with programming, design, and engineering.</p>
+<p>This post walks through setting up this blog and choosing Zola for a platform, styling with Pico CSS, and deploying on GitHub Pages.</p>
+<h2 id="why-i-chose-zola">Why I chose Zola</h2>
+<p>After years of having a simple Linktree style website, I finally decided to expand my online presence with a blog using a static site generator (known as SSG). SSGs are defined by usually using templates and then having a program compile the HTML, CSS, etc. all together to then be hosted on the Internet. This differs from a dynamic website where when you go to a page, code in the background generates the information, might pull it from a database, etc.</p>
+<p>I wanted an SSG that:</p>
+<ul>
+<li>Didn't require me to install an environment to use (so no Python, Node.js, etc)</li>
+<li>Is a single binary if possible</li>
+<li>Easy to build my own template</li>
+</ul>
+<p>That ruled out popular options like Gatsby, Astro, Jekyll, and Pelican, leaving me with two top contenders: Hugo and Zola.</p>
+<p>Hugo is the more popular of the two. I fiddled around with it for a bit, but didn't really care for the Go templating engine.</p>
+<p>Zola just clicked better for me. It uses a templating engine called <a href="https://keats.github.io/tera/docs/">Tera</a> that is similar to Jinja2. I'd used Jinja2 in some Flask projects before. Tera templates have their logic between tags with curly brackets with percent signs. For example:</p>
+<p><code>{% if foo %}&lt;!-- Do some stuff --&gt;{% endif %}</code></p>
+<p>You can output a variable's value with double curly brackets.</p>
+<p><code>{{ foo }}</code></p>
+<p>Using Zola is as easy as visiting <a href="https://www.getzola.org/">GetZola.org</a> and following the instructions.</p>
+<h2 id="pico-css-for-styling">Pico CSS for Styling</h2>
+<p>I've been exploring lightweight CSS frameworks for my projects. These tools make styling websites quick and easy.</p>
+<p>Some of my favorites are:</p>
+<ul>
+<li><a href="https://andybrewer.github.io/mvp/">MPV.css</a></li>
+<li><a href="https://picocss.com/">Pico CSS</a></li>
+<li><a href="https://purecss.io/">Pure.css</a></li>
+<li><a href="https://oxal.org/projects/sakura/">Sakura</a></li>
+<li><a href="https://simplecss.org/">Simple.css</a></li>
+</ul>
+<p>For this blog, I chose Pico CSS. I hadn't used it in a project yet, and it's one of the most popular lightweight frameworks out there. I had used MPV.css recently and liked it, but didn't feel like it fit this blog, and the default styles in Simple.css weren't really jibing with me for this project either. Pico CSS's clean default styles and ease of customization made it a good choice. Plus adjusting colors or layouts is straightforward when needed.</p>
+<p>Pico CSS can be implemented by downloading the file or via their CDN. <a href="https://picocss.com/">PicoCSS.com</a> has instructions.</p>
+<h2 id="hosting-on-github-pages">Hosting on Github Pages</h2>
+<p>I had been hosting my Linktree-style personal site on <a href="https://pages.github.com/">GitHub Pages</a>, so I stuck with that. A nice perk is that GitHub Actions can be used to build and deploy the site on a git push. You can find an example of the GitHub Action for building a Zola site <a href="https://github.com/marketplace/actions/zola-deploy-to-pages">here</a>.</p>
+<p>This is an example of what it looks like when I wrote this article:</p>
+<pre data-lang="yaml" style="background-color:#2b303b;color:#c0c5ce;" class="language-yaml "><code class="language-yaml" data-lang="yaml"><span style="color:#bf616a;">name</span><span>: </span><span style="color:#a3be8c;">Zola on GitHub Pages
+</span><span>
+</span><span style="color:#d08770;">on</span><span>: 
+</span><span> </span><span style="color:#bf616a;">push</span><span>:
+</span><span>  </span><span style="color:#bf616a;">branches</span><span>:
+</span><span>   - </span><span style="color:#a3be8c;">main  </span><span style="color:#65737e;"># Trigger on pushes to the main branch
+</span><span>
+</span><span style="color:#bf616a;">jobs</span><span>:
+</span><span>  </span><span style="color:#bf616a;">build</span><span>:
+</span><span>    </span><span style="color:#bf616a;">name</span><span>: </span><span style="color:#a3be8c;">Publish site
+</span><span>    </span><span style="color:#bf616a;">runs-on</span><span>: </span><span style="color:#a3be8c;">ubuntu-latest
+</span><span>    </span><span style="color:#bf616a;">steps</span><span>:
+</span><span>    - </span><span style="color:#bf616a;">name</span><span>: </span><span style="color:#a3be8c;">Checkout main
+</span><span>      </span><span style="color:#bf616a;">uses</span><span>: </span><span style="color:#a3be8c;">actions/checkout@v4  </span><span style="color:#65737e;"># check out the repository code
+</span><span>    - </span><span style="color:#bf616a;">name</span><span>: </span><span style="color:#a3be8c;">Build and deploy
+</span><span>      </span><span style="color:#bf616a;">uses</span><span>: </span><span style="color:#a3be8c;">shalzz/zola-deploy-action@v0.20.0  </span><span style="color:#65737e;"># Uses Zola to build the site
+</span><span>      </span><span style="color:#bf616a;">env</span><span>:
+</span><span>        </span><span style="color:#bf616a;">GITHUB_TOKEN</span><span>: </span><span style="color:#a3be8c;">${{ secrets.GITHUB_TOKEN }}
+</span></code></pre>
+<p>Just drop this into a YAML file in <code>.github/workflows</code>. I called my file <code>zola-build.yml</code>.</p>
+<p>Then set your Github Pages settings to <em>deploy from a branch</em> and set that branch to <em>gh-pages</em> and the <em>root</em> folder. I couldn't find a way to have it build to a folder in the main branch and have the site work, but GitHub Pages allows you to put your static website files in a branch called <em>gh-pages</em> to have your site visible to the public.</p>
+<p><img src="https://www.jddecker.com/blog/hello-world/deploy%20from%20a%20branch.webp" alt="GitHub Pages settings: &#39;Deploy from a branch&#39; configuration" /></p>
+<p>After you push your files to Github, then the action should create a branch called gh-pages and your site should be visible online.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Setting up this blog with Zola and Pico CSS has been smooth and rewarding. If you're exploring SSGs or lightweight CSS frameworks, I hope this helps!</p>
+
+    </main>
+    <footer class="container footer">
+        <p><small>Made with 💪 by Jeffrey David Decker</small></p>
+    </footer>
+</body>
+</html>
