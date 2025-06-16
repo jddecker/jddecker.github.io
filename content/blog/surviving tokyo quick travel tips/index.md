@@ -1,9 +1,8 @@
 +++
 title = "Surviving Tokyo: Quick Travel Tips"
 description = "Tokyo might seem overwhelming, but it's easier than you think"
-toc = true
 date = 2025-03-23
-updated = 2025-06-13
+updated = 2025-06-15
 draft = false
 
 [extra]
@@ -39,9 +38,11 @@ If you don't have time to properly learn Japanese, just focus on these key phras
 
 ## Your Phone: Your Best Friend in Tokyo
 
-### Essential Apps
-
 ![Yoda with caption "learn to use your phone you must"](learn%20to%20use%20your%20phone.webp)
+
+Having a smart phone with data makes planning and getting around Tokyo so much easier. With the right apps, you can make the most of your trip, stay in touch with the people who matter most, and even find great food recommendations.
+
+### Essential Apps
 
 Besides **Google Maps** and **Google Translate** (download offline maps and Japanese language!), these apps can really simplify things:
 
@@ -66,6 +67,8 @@ If your phone **doesn't support eSIM**, you have two main options:
 I've always used an eSIM, so I don't have firsthand experience with the other options, but they are commonly used by travelers.
 
 ## Getting Around
+
+Tokyo is easy to get around with all of the public transportation options available. I tend to stick with Google Maps for most of my getting around, as it provides accurate subway times and helps me find the fastest route to a destination.
 
 ### Paying for Transport
 
