@@ -34,20 +34,22 @@
     <main class="container">
         <h1>{{ section.title }}</h1>
         {% if section.description %}<p>{{ section.description }}</p>{% endif %}
-            {% for page in section.pages %}
-                <article class="blog-item">
-                    {% if page.extra.og_image %}<p><a href="{{ page.path | safe }}"><img src="{{ page.path ~ page.extra.og_image | safe }}" class="og-img"{% if page.extra.og_image_alt %} alt="{{ page.extra.og_image_alt }}"{% endif %}></a></p>{% endif %}
-                    <hgroup>
-                        <h2><a href="{{ page.path | safe }}">{{ page.title }}</a></h2>
-                        {% if page.description %}<p>{{ page.description }}</p>{% endif %}
-                    </hgroup>
-                        {% if page.updated %}
-                            <p>Updated: {{ page.updated | date(format="%B %-e, %Y") }}</p>
-                        {% else %}
-                            <p>Published: {{ page.date | date(format="%B %-e, %Y") }}</p>
-                        {% endif %}
-                </article>
-            {% endfor %}
+            <div class="blog-items">
+                {% for page in section.pages %}
+                    <article class="blog-item">
+                        {% if page.extra.og_image %}<p><a href="{{ page.path | safe }}"><img src="{{ page.path ~ page.extra.og_image | safe }}" class="og-img"{% if page.extra.og_image_alt %} alt="{{ page.extra.og_image_alt }}"{% endif %}></a></p>{% endif %}
+                        <hgroup>
+                            <h2><a href="{{ page.path | safe }}">{{ page.title }}</a></h2>
+                            {% if page.description %}<p>{{ page.description }}</p>{% endif %}
+                        </hgroup>
+                            {% if page.updated %}
+                                <p>Updated: {{ page.updated | date(format="%B %-e, %Y") }}</p>
+                            {% else %}
+                                <p>Published: {{ page.date | date(format="%B %-e, %Y") }}</p>
+                            {% endif %}
+                    </article>
+                {% endfor %}
+            </div>
         <p class="rss-feed"><a href="/atom.xml"><img src="/rss%20feed.svg" alt="RSS feed icon"> RSS Feed</a></p>
     </main>
     <footer class="container footer">

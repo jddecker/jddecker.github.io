@@ -20,10 +20,16 @@ html {
 .footer {
     text-align: center;
 }
+.blog-items {
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    flex-wrap: wrap;
+}
 .blog-item {
     max-width: 768px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 8px;
+    margin-right: 8px;
 }
 .blog-post img, .blog-item img {
     margin-left: auto;
