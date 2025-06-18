@@ -33,7 +33,7 @@ You'll find tons of articles about Japanese etiquette, and a lot of it's good ad
 If you don't have time to properly learn Japanese, just focus on these key phrases. They'll take you far.
 
 1. **[Sumimasen](https://www.youtube.com/watch?v=EpGcxg9i0QI)** - This is your Swiss Army Knife! It means "excuse me" or "sorry". Use it to get someone's attention, apologize lightly, or navigate a crowded space. Seriously, learn this one.
-2. **[Arigato Gozaimasu](https://www.youtube.com/watch?v=wYPEdMdyMLg)** - A polite "thank you." Perfect for interacting with shop staff or restaurant servers.
+2. **[Arigato Gozaimasu](https://www.youtube.com/watch?v=wYPEdMdyMLg)** - A polite "thank you". Perfect for interacting with shop staff or restaurant servers.
 3. **[Onegaishimasu](https://www.youtube.com/watch?v=GUgfrtPTBGo)** - A more formal "please". Especially useful when ordering food. Just point to an item on the menu and say, "onegaishimasu".
 
 ## Your Phone: Your Best Friend in Tokyo
