@@ -20,7 +20,7 @@ Tokyo can feel overwhelming at first, but trust me, it's easier than you think! 
 
 ![Steve Carell yelling with caption "loud noises"](loud%20noises.webp)
 
-You'll find tons of articles about Japanese etiquette, and a lot of it's good advice. But here are the key things to keep in mind for a smooth experience:
+Japanese etiquette can seem intimidating, but don't stress too much! You'll find tons of articles about Japanese etiquette, and a lot of it's good advice. But here are the key things to keep in mind for a smooth experience:
 
 1. **Keep the noise down** - Japan is a pretty quiet country. Try to match the sound level around you. This is really the biggest thing.
 2. **Follow the rules** - They're there for a reason! Even if something seems odd, go with the flow. No eating on trains, and be sure to stand behind the yellow line at train stations.
@@ -32,7 +32,7 @@ You'll find tons of articles about Japanese etiquette, and a lot of it's good ad
 
 If you don't have time to properly learn Japanese, just focus on these key phrases. They'll take you far.
 
-1. **[Sumimasen](https://www.youtube.com/watch?v=EpGcxg9i0QI)** - This is your Swiss Army Knife! It means "excuse me" or "sorry". Use it to get someone's attention, apologize lightly, or navigate a crowded space. Seriously, learn this one.
+1. **[Sumimasen](https://www.youtube.com/watch?v=EpGcxg9i0QI)** - Seriously, learn "Sumimasen". You'll use it constantly. This is your Swiss Army Knife! It means "excuse me" or "sorry". Use it to get someone's attention, apologize lightly, or navigate a crowded space.
 2. **[Arigato Gozaimasu](https://www.youtube.com/watch?v=wYPEdMdyMLg)** - A polite "thank you". Perfect for interacting with shop staff or restaurant servers.
 3. **[Onegaishimasu](https://www.youtube.com/watch?v=GUgfrtPTBGo)** - A more formal "please". Especially useful when ordering food. Just point to an item on the menu and say, "onegaishimasu".
 
@@ -57,14 +57,16 @@ If your phone is **unlocked** and supports **eSIM**, I highly recommend using on
 * **[Ubigi](https://www.ubigi.com/)** - My personal choice.
 * **[Airalo](https://www.airalo.com/)** - A popular option that many travelers recommend.
 
+Think of an eSIM like adding a virtual SIM card to your phone.
+
 If you have a dual-SIM phone, you can use your regular SIM for calls and texts while using your eSIM for data. It's a great combo! I'm doing this on my Pixel 7 with WiFi calling enabled, and it works great. It should work on iOS too.
 
 If your phone **doesn't support eSIM**, you have two main options:  
 
 * **Check with your carrier** for international roaming plans.
-* **Rent a pocket WiFi device**, such as one from [Japan Wireless](https://www.japan-wireless.com/en).
+* **Rent a pocket WiFi device**, such as one from [Japan Wireless](https://www.japan-wireless.com/en). *Keep in mind you'll need to keep track of it, charge it, and it limits your group's ability to split up.*
 
-I've always used an eSIM, so I don't have firsthand experience with the other options, but they are commonly used by travelers.
+I've always used an eSIM in Japan (which works great!), so I don't have firsthand experience with the other options, but they are commonly used by travelers.
 
 ## Getting Around
 
@@ -110,8 +112,8 @@ For example, let's say you're going from Shinjuku Gyoen National Garden to the I
 I've marked key details for navigating the metro:
 
 * Your starting station is **Shinjuku-gyoemmae Sta. (M10)**. 
-* Find the **Marunouchi Line** (look for the red "M" symbol), head to **Platform 2**, and board a **local** train (*express* and *limited express* trains skip certain stops).
-* Google Maps often suggests the best train car for a quick exit (optional but helpful).
+* Find the **Marunouchi Line** (look for the red "M" symbol), head to **Platform 2**, and board a **local** train (*express* and *limited express* trains skip certain stops, while *local* trains go to every stop on their line).
+* Google Maps often suggests the best train car for a quick exit.
 * Get off at **Otemachi Sta. (M18)**.
 * Exit via **C13a**. If you don't see it, follow signs for **Marunouchi District Gate**.
 
@@ -120,18 +122,20 @@ I've marked key details for navigating the metro:
 Here are some final quick tips:
 
 * Pack light if you can.
-* Bring some Japanese Yen in cash. Credit cards are accepted in many places, but you'll likely need physical cash at some point. *I tend to spend around ¥10,000 per person per week in cash.*
+* Bring some Japanese Yen in cash. Credit cards are accepted in many places, but you'll likely need physical cash at some point. *I tend to spend around ¥10,000 per person per week in cash, unless I go on a serious gotcha machine spree.*
 * Always carry your passport. It's your official ID in Japan, and authorities can request to see it.
 * Be prepared for lots of walking and stairs (wear comfortable shoes or whatever works for you).
 * Bathrooms in Japan are great, but the ones in shopping centers, restaurants, and hotels tend to be the best.
 * Bring hand sanitizer in case a public bathroom doesn't have soap.
 * Pack your suitcase inside another suitcase so you can bring back two if you shop a lot.
-* Stay within a 5-10 minute walk of a Tokyo Metro or JR line for easy access to transit.
+* Aim to stay within a 5-10 minute walk of a Tokyo Metro or JR line. Easy access to transit is your friend!
 * When given the option to pay in Japanese Yen or US Dollars, choose Yen. With 1 USD ≈ 150 JPY as of this writing, you'll usually get a better deal.
-* Bring deodorant. Good options are harder to find in Japan.
-* Fill out your customs form in advance through [Japan Web](https://www.vjw.digital.go.jp/) and use the QR code at customs instead of handwriting a form.
+* Deodorant can be harder to find in Japan, so it's a good idea to bring some with you. Seriously, you'll thank me later!
+* Fill out your customs form in advance through [Japan Web](https://www.vjw.digital.go.jp/) and use the QR code at customs instead of handwriting a form. It's a massive time-saver at the airport!
 
 ## More Resources
+
+I'm always discovering new resources. These are just a few of my favorites right now.
 
 * Websites:
     * **[Tokyo Cheapo](https://tokyocheapo.com/)** - A go-to resource for budget-friendly travel tips, including accommodations, dining, and activities.
@@ -146,5 +150,5 @@ Here are some final quick tips:
     * **[CDawgVA](https://www.twitch.tv/cdawgva)** - Fun, chaotic adventures in Japan, from biking cross-country to exploring niche subcultures.
     * **[robcdee](https://www.twitch.tv/robcdee)** - IRL streams featuring humor, spontaneous interactions, and deep dives into Tokyo's hidden gems.
 * Forums:  
-    * **[r/JapanTravelTips](https://www.reddit.com/r/JapanTravelTips/)** - A helpful subreddit where travelers share tips, itineraries, and experiences. There's a lot of useful information, but keep in mind that recommendations can vary based on personal preferences.
+    * **[r/JapanTravelTips](https://www.reddit.com/r/JapanTravelTips/)** - A helpful subreddit where travelers share tips, itineraries, and experiences. There's tons of great info on there, but you're bound to find different folks have different opinions. Just something to keep in mind.
     * **[r/JapanTravel](https://www.reddit.com/r/JapanTravel)** - One of the biggest Japan travel subreddits, great for general questions, itinerary help, and travel updates.
