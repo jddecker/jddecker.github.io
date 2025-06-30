@@ -15,33 +15,15 @@
         <meta property="og:image" content="{{ page.permalink ~ page.extra.og_image | safe }}">
         {% if page.extra.og_image_alt %}<meta property="og:image:alt" content="{{ page.extra.og_image_alt }}">{% endif %}
     {% else %}
-        <meta property="og:image" content="https://www.jddecker.com/og.webp">
+        <meta property="og:image" content="{{ config.base_url ~ '/og.webp' | safe }}">
         <meta property="og:image:alt" content="A stylized image of code, representing Jeffrey David Decker's website">
     {% endif %}
     {% if page.description %}<meta property="og:description" content="{{ page.description }}">{% endif %}
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-    <link rel="stylesheet" href="/style.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
+    {% include "head_links.html" %}
     <title>{{ page.title }} - Jeffrey David Decker</title>
 </head>
 <body>
-    <header class="container">
-        <nav>
-            <ul>
-                <li><strong><a href="/" class="secondary">Jeffrey David Decker</a></strong></li>
-            </ul>
-            <ul>
-                <li><a href="/">About</a></li>
-                <li><a href="/blog/">Blog</a></li>
-            </ul>
-        </nav>
-    </header>
+    {% include "header.html" %}
     <main class="container blog-post">
         <hgroup>
             <h1>{{ page.title }}</h1>
@@ -109,8 +91,6 @@
         {% endif %}
         {{ page.content | safe }}
     </main>
-    <footer class="container footer">
-        <p><small>Made with 💪 by Jeffrey David Decker</small></p>
-    </footer>
+    {% include "footer.html" %}
 </body>
 </html>
