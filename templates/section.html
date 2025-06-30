@@ -9,8 +9,8 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ section.permalink | safe }}">
     {% if section.extra.og_image %}
-        <meta property="og:image" content="{{ page.permalink ~ page.extra.og_image | safe }}">
-        {% if section.extra.og_image_alt %}<meta property="og:image:alt" content="{{ page.extra.og_image_alt }}">{% endif %}
+        <meta property="og:image" content="{{ section.permalink ~ section.extra.og_image | safe }}">
+        {% if section.extra.og_image_alt %}<meta property="og:image:alt" content="{{ section.extra.og_image_alt }}">{% endif %}
     {% else %}
         <meta property="og:image" content="{{ config.base_url ~ '/og.webp' | safe }}">
         <meta property="og:image:alt" content="A stylized image of code, representing Jeffrey David Decker's website">
