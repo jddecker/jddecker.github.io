@@ -1,18 +1,8 @@
-<!DOCTYPE html>
-<html lang="en" data-theme="dark">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="color-scheme" content="dark">
-    {% include "head_links.html" %}
-    <title>404 Not Found - Jeffrey David Decker</title>
-</head>
-<body>
-    {% include "header.html" %}
+{% extends "base.html" %}
+
+{% block content %}
     <main class="container">
             <h1>404 Not Found</h1>
             <p><a href="{{ config.base_url | safe }}">Return to the homepage here.</a></p>
     </main>
-    {% include "footer.html" %}
-</body>
-</html>
+{% endblock content %}

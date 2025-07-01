@@ -1,26 +1,6 @@
-<!DOCTYPE html>
-<html lang="en" data-theme="dark">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="color-scheme" content="dark">
-    {% if section.description %}<meta name="description" content="{{ section.description }}">{% endif %}
-    <meta property="og:title" content="{{ section.title }} - Jeffrey David Decker">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="{{ section.permalink | safe }}">
-    {% if section.extra.og_image %}
-        <meta property="og:image" content="{{ section.permalink ~ section.extra.og_image | safe }}">
-        {% if section.extra.og_image_alt %}<meta property="og:image:alt" content="{{ section.extra.og_image_alt }}">{% endif %}
-    {% else %}
-        <meta property="og:image" content="{{ config.base_url ~ '/og.webp' | safe }}">
-        <meta property="og:image:alt" content="A stylized image of code, representing Jeffrey David Decker's website">
-    {% endif %}
-    {% if section.description %}<meta property="og:description" content="{{ section.description }}">{% endif %}
-    {% include "head_links.html" %}
-    <title>{{ section.title }} - Jeffrey David Decker</title>
-</head>
-<body>
-    {% include "header.html" %}
+{% extends "base.html" %}
+
+{% block content %}
     <main class="container">
         <h1>{{ section.title }}</h1>
         {% if section.description %}<p>{{ section.description }}</p>{% endif %}
@@ -51,6 +31,4 @@
             </a>
         </p>
     </main>
-    {% include "footer.html" %}
-</body>
-</html>
+{% endblock content %}

@@ -1,29 +1,6 @@
-<!DOCTYPE html>
-<html lang="en" data-theme="dark">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="color-scheme" content="dark">
-    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-    <meta property="og:title" content="{{ page.title }} - Jeffrey David Decker">
-    <meta property="og:type" content="article">
-    {% if page.date %}<meta property="og:article:published_time" content="{{ page.date }}">{% endif %}
-    {% if page.updated %}<meta property="og:article:modified_time" content="{{ page.updated }}">{% endif %}
-    <meta property="og:article:author" content="Jeffrey David Decker">
-    <meta property="og:url" content="{{ page.permalink | safe }}">
-    {% if page.extra.og_image %}
-        <meta property="og:image" content="{{ page.permalink ~ page.extra.og_image | safe }}">
-        {% if page.extra.og_image_alt %}<meta property="og:image:alt" content="{{ page.extra.og_image_alt }}">{% endif %}
-    {% else %}
-        <meta property="og:image" content="{{ config.base_url ~ '/og.webp' | safe }}">
-        <meta property="og:image:alt" content="A stylized image of code, representing Jeffrey David Decker's website">
-    {% endif %}
-    {% if page.description %}<meta property="og:description" content="{{ page.description }}">{% endif %}
-    {% include "head_links.html" %}
-    <title>{{ page.title }} - Jeffrey David Decker</title>
-</head>
-<body>
-    {% include "header.html" %}
+{% extends "base.html" %}
+
+{% block content %}
     <main class="container blog-post">
         <hgroup>
             <h1>{{ page.title }}</h1>
@@ -91,6 +68,4 @@
         {% endif %}
         {{ page.content | safe }}
     </main>
-    {% include "footer.html" %}
-</body>
-</html>
+{% endblock content %}
