@@ -3,7 +3,7 @@
 {% block content %}
     <main class="container">
         <h1>{{ section.title }}</h1>
-        {% if section.description %}<p>{{ section.description }}</p>{% endif %}
+        {% if section.content %}{{ section.content }}{% endif %}
             <div class="blog-items">
                 {% for page in section.pages %}
                     <article class="blog-item">
