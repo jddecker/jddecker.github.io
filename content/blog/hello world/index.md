@@ -53,9 +53,9 @@ Pico CSS can be implemented by downloading the file or via their CDN. [PicoCSS.c
 
 ## Hosting on Github Pages
 
-I had been hosting my Linktree-style personal site on [GitHub Pages](https://pages.github.com/), so I stuck with that. It's free, easy to use, and especially convenient if you've already using GitHub. A nice perk is that [GitHub Actions](https://github.com/features/actions) can be used to build and deploy the site on a git push. You can find an example of the GitHub Action for building a Zola site [here](https://github.com/marketplace/actions/zola-deploy-to-pages).
+I had been hosting my Linktree-style personal site on [GitHub Pages](https://pages.github.com/), so I stuck with that. It's free, easy to use, and especially convenient if you've already using GitHub. A nice perk is that [GitHub Actions](https://github.com/features/actions) can be used to build and deploy the site on a git push. There are example GitHub Actions that can be [found on GitHub](https://github.com/marketplace/actions/zola-deploy-to-pages).
 
-This is an example of what it looks like when I wrote this article:
+This is an example of what it looks like for Zola v0.20.0 when I wrote this article:
 
 ``` yaml
 name: Zola on GitHub Pages
