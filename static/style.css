@@ -56,11 +56,11 @@ html {
 }
 /* font overrides */
 :root {
-    --pico-font-family: "Ubuntu", var(--pico-font-family-sans-serif);
+    --pico-font-family: "Space Grotesk", var(--pico-font-family-sans-serif);
 }
 pre,
 code,
 kbd,
 samp {
-  --pico-font-family: "Ubuntu Mono", var(--pico-font-family-monospace);
+  --pico-font-family: "Space Mono", var(--pico-font-family-monospace);
 }
