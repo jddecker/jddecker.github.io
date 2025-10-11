@@ -46,13 +46,15 @@ html {
 .blog-post figcaption {
     text-align: center;
 }
-.rss-feed {
+.footer-links {
     text-align: center;
 }
-.rss-feed svg {
-    width: 1.2rem;
-    height: 1.2rem;
+.footer-links svg {
+    width: 1.5rem;
+    height: 1.5rem;
     fill: currentColor;
+    margin-left: calc(var(--pico-spacing) / 2);
+    margin-right: calc(var(--pico-spacing) / 2);
 }
 /* font overrides */
 :root {
