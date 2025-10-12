@@ -46,6 +46,12 @@ html {
 .blog-post figcaption {
     text-align: center;
 }
+.blog-toc details {
+    margin-bottom: 0;
+}
+.blog-toc ul {
+    margin-bottom: 0;
+}
 .footer-links {
     text-align: center;
 }
