@@ -14,17 +14,19 @@ og_image_alt = "Close up of plum blossoms with the rest of the tree blurry in th
 Plum blossoms in Japan are just as beautiful as cherry blossoms
 {% end %}
 
-Tokyo can feel overwhelming at first, but trust me, it's easier than you think! Coming from the USA, I found it surprisingly convenient and efficient, full of incredible experiences. These tips are based on my own adventures in Tokyo, and while everyone's journey is different, I hope they give you the confidence to explore with ease and make the most of your trip.
+Tokyo can feel overwhelming, but it's easier than you think. Coming from the USA, I found it surprisingly convenient, efficient, and full of incredible experiences. These tips are based on my own adventures in Tokyo.
 
-## A Little Etiquette Goes a Long Way
+## The Golden Rule: Match the Volume
 
 ![Steve Carell yelling with caption "loud noises"](loud%20noises.webp)
 
-Japanese etiquette can seem intimidating, but don't stress too much! You'll find tons of articles about Japanese etiquette, and a lot of it's good advice. But here are the key things to keep in mind for a smooth experience:
+There are endless articles about Japanese etiquette, but if you only remember one thing, make it this: match the volume of the people around you.
 
-1. **Keep the noise down** - Japan is a pretty quiet country. Try to match the sound level around you. This is really the biggest thing.
-2. **Follow the rules** - They're there for a reason! Even if something seems odd, go with the flow. No eating on trains, and be sure to stand behind the yellow line at train stations.
-3. **Blend in (a little)** - Just observing what others do can make a big difference. Walk on the left side of sidewalks (except in Osaka!) and face forward on trains.
+Japan is remarkably quiet. Whether you're on a train or walking through neighborhoods, it feels like most people talk at a whisper compared to the US.
+
+Sometimes later at night at restaurants or at izakayas (think Japanese pubs), people will open up and be much louder.
+
+Matching the volume is a great way to be polite.
 
 ## Japanese to Know
 
@@ -32,15 +34,15 @@ Japanese etiquette can seem intimidating, but don't stress too much! You'll find
 
 If you don't have time to properly learn Japanese, just focus on these key phrases. They'll take you far.
 
-1. **[Sumimasen](https://www.youtube.com/watch?v=EpGcxg9i0QI)** - Seriously, learn "Sumimasen". You'll use it constantly. This is your Swiss Army Knife! It means "excuse me" or "sorry". Use it to get someone's attention, apologize lightly, or navigate a crowded space.
-2. **[Arigato Gozaimasu](https://www.youtube.com/watch?v=wYPEdMdyMLg)** - A polite "thank you". Perfect for interacting with shop staff or restaurant servers.
-3. **[Onegaishimasu](https://www.youtube.com/watch?v=GUgfrtPTBGo)** - A more formal "please". Especially useful when ordering food. Just point to an item on the menu and say, "onegaishimasu".
+1. **[Sumimasen](https://www.youtube.com/watch?v=EpGcxg9i0QI)** - You'll use this the most. It's a great way to get someone's attention in a shop or store as well as if you need to squeeze by someone on a crowded train. Think of it like "excuse me" in English.
+2. **[Arigato Gozaimasu](https://www.youtube.com/watch?v=wYPEdMdyMLg)** - A polite "thank you." Use this with staff at shops and restaurants.
+3. **[Onegaishimasu](https://www.youtube.com/watch?v=GUgfrtPTBGo)** - "Please." If you're ordering food, just point at the menu and say this.
 
 ## Your Phone: Your Best Friend in Tokyo
 
 ![Yoda with caption "learn to use your phone you must"](learn%20to%20use%20your%20phone.webp)
 
-Having a smart phone with data makes planning and getting around Tokyo so much easier. With the right apps, you can make the most of your trip, stay in touch with the people who matter most, and even find great food recommendations.
+A working data connection is a big quality-of-life upgrade. Relying on your phone for navigation and translation can make a trip much easier.
 
 ### Essential Apps
 
@@ -59,18 +61,18 @@ If your phone is **unlocked** and supports **eSIM**, I highly recommend using on
 
 Think of an eSIM like adding a virtual SIM card to your phone.
 
-If you have a dual-SIM phone, you can use your regular SIM for calls and texts while using your eSIM for data. It's a great combo! I'm doing this on my Pixel 7 with WiFi calling enabled, and it works great. It should work on iOS too.
+If your phone has dual-SIM, you can keep your home SIM active for texts while using the eSIM for data. I did this on my Pixel 7 with WiFi calling enabled and it worked perfectly.
 
 If your phone **doesn't support eSIM**, you have two main options:  
 
 * **Check with your carrier** for international roaming plans.
 * **Rent a pocket WiFi device**, such as one from [Japan Wireless](https://www.japan-wireless.com/en). *Keep in mind you'll need to keep track of it, charge it, and it limits your group's ability to split up.*
 
-I've always used an eSIM in Japan (which works great!), so I don't have firsthand experience with the other options, but they are commonly used by travelers.
+I've always used an eSIM, while I haven't tried the other options personally, I've read that they are popular alternatives.
 
 ## Getting Around
 
-Tokyo is easy to get around with all of the public transportation options available. I tend to stick with Google Maps for most of my getting around, as it provides accurate subway times and helps me find the fastest route to a destination.
+Tokyo's transit system is world-class, but navigating train stations can be daunting. Google Maps is your best tool here. It's very accurate with subway timings and platform numbers.
 
 ### Paying for Transport
 
@@ -121,17 +123,17 @@ I've marked key details for navigating the metro:
 
 Here are some final quick tips:
 
-* Pack light if you can.
-* Bring some Japanese Yen in cash. Credit cards are accepted in many places, but you'll likely need physical cash at some point. *I tend to spend around ¥10,000 per person per week in cash, unless I go on a serious gotcha machine spree.*
-* Always carry your passport. It's your official ID in Japan, and authorities can request to see it.
+* Pack light if you can. There are lots of stairs and it's easier to use trians.
+* Carry some cash. While cards are becoming more common, you'll still need Yen for small shops and temples. I budget about ¥10,000 per person per week in cash, more if you plan on hitting the Gachapon (capsule toy) machines.
+* Always carry your passport. It's your legal ID in Japan, and you're required to show it if requested by authorities.
 * Be prepared for lots of walking and stairs (wear comfortable shoes or whatever works for you).
 * Bathrooms in Japan are great, but the ones in shopping centers, restaurants, and hotels tend to be the best.
 * Bring hand sanitizer in case a public bathroom doesn't have soap.
 * Pack your suitcase inside another suitcase so you can bring back two if you shop a lot.
-* Aim to stay within a 5-10 minute walk of a Tokyo Metro or JR line. Easy access to transit is your friend!
+* Aim to stay within a 5-10 minute walk of a Tokyo Metro or JR line.
 * When given the option to pay in Japanese Yen or US Dollars, choose Yen. With 1 USD ≈ 150 JPY as of this writing, you'll usually get a better deal.
-* Deodorant can be harder to find in Japan, so it's a good idea to bring some with you. Seriously, you'll thank me later!
-* Fill out your customs form in advance through [Japan Web](https://www.vjw.digital.go.jp/) and use the QR code at customs instead of handwriting a form. It's a massive time-saver at the airport!
+* Pack your own deodorant. It can be hard to find in Japan, and local versions are often much weaker than Western brands.
+* Fill out your customs form in advance through [Visit Japan Web](https://www.vjw.digital.go.jp/). Using the QR code at the airport is much faster than handwriting paper forms.
 
 ## More Resources
 
@@ -150,5 +152,5 @@ I'm always discovering new resources. These are just a few of my favorites right
     * **[CDawgVA](https://www.twitch.tv/cdawgva)** - Fun, chaotic adventures in Japan, from biking cross-country to exploring niche subcultures.
     * **[robcdee](https://www.twitch.tv/robcdee)** - IRL streams featuring humor, spontaneous interactions, and deep dives into Tokyo's hidden gems.
 * Forums:  
-    * **[r/JapanTravelTips](https://www.reddit.com/r/JapanTravelTips/)** - A helpful subreddit where travelers share tips, itineraries, and experiences. There's tons of great info on there, but you're bound to find different folks have different opinions. Just something to keep in mind.
+    * **[r/JapanTravelTips](https://www.reddit.com/r/JapanTravelTips/)** - A solid community for specific questions. Like any travel forum, take the some of the options with a grain of salt and use what works for you.
     * **[r/JapanTravel](https://www.reddit.com/r/JapanTravel)** - One of the biggest Japan travel subreddits, great for general questions, itinerary help, and travel updates.
