@@ -33,7 +33,7 @@ Hugo is the SSG heavyweight, but after some fiddling, I found its Go templating 
 
 Zola clicked. It uses [Tera](https://keats.github.io/tera/docs/), which feels like Jinja2 (the engine I use in Flask). Since I was already comfortable with that syntax, the learning curve was small.
 
-etting started is as simple as downloading the binary from [GetZola.org](https://www.getzola.org/) and following their initialization guide.
+Getting started is as simple as downloading the binary from [GetZola.org](https://www.getzola.org/) and following their initialization guide.
 
 ## Pico CSS for Styling
 
@@ -47,7 +47,7 @@ Some of my favorites are:
 * [Sakura](https://oxal.org/projects/sakura/)
 * [Simple.css](https://simplecss.org/)
 
-I’ve experimented with several "classless" frameworks like MVP.css and Simple.css, but they often felt either too rigid or didn't quite match the vibe I wanted. I landed on Pico CSS. It’s clean, lightweight, and incredibly easy to customize. Changing a button color is just a single CSS variable tweak.
+I've experimented with several "classless" frameworks like MVP.css and Simple.css, but they often felt either too rigid or didn't quite match the vibe I wanted. I landed on Pico CSS. It's clean, lightweight, and incredibly easy to customize. Changing a button color is just a single CSS variable tweak.
 
 You can get started by grabbing the file directly or linking to their CDN. Check out [PicoCSS.com](https://picocss.com/) for the quick setup.
 
