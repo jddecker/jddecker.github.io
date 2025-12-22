@@ -11,11 +11,11 @@ og_image_alt = "Stylized code image representing Jeffrey David Decker's website"
 
 ![Stylized code image representing Jeffrey David Decker's website](code.webp)
 
-Hello 👋! As a computer enthusiast, I enjoy exploring new ways to learn about programming, design, and engineering.
+Hello 👋! As a fan of tech, I enjoy exploring new ways to learn about programming, design, and engineering.
 
-I used to have a simple Linktree-style website, but I wanted something more, a place to document my projects and share what I'm learning
+My old Linktree-style site served its purpose, but I eventually outgrew it. I needed a dedicated space to document my projects and share what I'm learning in a more permanent way.
 
-In this post, I'll walk you through my process of setting up this blog, covering my choice of tools (Zola and Pico CSS), and how I'm hosting it on GitHub Pages.
+Here is how I built this blog using Zola and Pico CSS, and how I automated the whole thing with GitHub Pages.
 
 ## Why I chose Zola
 
@@ -29,11 +29,11 @@ I wanted an SSG that:
 
 This ruled out popular options like Gatsby, Astro, Jekyll, and Pelican, narrowing my choice to Hugo and Zola.
 
-Hugo is the more popular of the two. I fiddled around with it for a bit, but I found the Go templating engine a bit less intuitive to what I was used to using.
+Hugo is the SSG heavyweight, but after some fiddling, I found its Go templating a bit unintuitive.
 
-Zola just clicked better for me. It uses a templating engine called [Tera](https://keats.github.io/tera/docs/).
+Zola clicked. It uses [Tera](https://keats.github.io/tera/docs/), which feels like Jinja2 (the engine I use in Flask). Since I was already comfortable with that syntax, the learning curve was small.
 
-Using Zola is straightforward: just visit [GetZola.org](https://www.getzola.org/) and follow the instructions. It's similar to Jinja2, a templating engine I'm familiar with from Flask projects. Zola uses Tera, which uses curly brackets and percent signs, a familiar approach for those used to Jinja2.
+etting started is as simple as downloading the binary from [GetZola.org](https://www.getzola.org/) and following their initialization guide.
 
 ## Pico CSS for Styling
 
@@ -47,15 +47,15 @@ Some of my favorites are:
 * [Sakura](https://oxal.org/projects/sakura/)
 * [Simple.css](https://simplecss.org/)
 
-For this blog, I chose Pico CSS. I hadn't used it in a project yet, and it's one of the most popular lightweight frameworks out there. I had used MPV.css recently and liked it, but its default styles felt too rigid for this project. The default styles in Simple.css weren't really jibing with me for this project either. Pico CSS's clean default styles and ease of customization made it a good choice. Plus, with Pico, changing the color of buttons is as simple as tweaking one line of CSS.
+I’ve experimented with several "classless" frameworks like MVP.css and Simple.css, but they often felt either too rigid or didn't quite match the vibe I wanted. I landed on Pico CSS. It’s clean, lightweight, and incredibly easy to customize. Changing a button color is just a single CSS variable tweak.
 
-Pico CSS can be implemented by downloading the file or using their CDN. [PicoCSS.com](https://picocss.com/) provides instructions.
+You can get started by grabbing the file directly or linking to their CDN. Check out [PicoCSS.com](https://picocss.com/) for the quick setup.
 
 ## Hosting on Github Pages
 
-I had been hosting my Linktree-style personal site on [GitHub Pages](https://pages.github.com/), so I stuck with that. It's free, easy to use, and especially convenient if you've already using GitHub. A nice perk is that [GitHub Actions](https://github.com/features/actions) can be used to build and deploy the site on a git push. There are example GitHub Actions that can be [found on GitHub](https://github.com/marketplace/actions/zola-deploy-to-pages).
+I had been hosting my Linktree-style personal site on [GitHub Pages](https://pages.github.com/), so I stuck with that. It's free, easy to use, and especially convenient if you've already using GitHub. A huge perk is using [GitHub Actions](https://github.com/features/actions) to automate the build. Every time I push code, an Action builds the site and deploys it. There are example GitHub Actions that can be [found on GitHub](https://github.com/marketplace/actions/zola-deploy-to-pages).
 
-This is an example of what it looks like for Zola v0.20.0 when I wrote this article:
+Here is the workflow configuration I used for Zola v0.20.0:
 
 ``` yaml
 name: Zola on GitHub Pages
@@ -80,7 +80,7 @@ jobs:
 
 Just add this to a YAML file in the `.github/workflows` folder. I called my file `zola-build.yml`.
 
-Then set your Github Pages settings to *deploy from a branch* and set that branch to *gh-pages* and the *root* folder. I couldn't get it to build directly to a folder on the main branch, but GitHub Pages allows you to place your static website files in a *gh-pages* branch to make them publicly accessible.
+In your GitHub repository settings, set the Pages source to "Deploy from a branch" and point it to the `gh-pages` branch. The Action handles the heavy lifting: every time I push to main, it builds the site and pushes the static files to that deployment branch automatically.
 
 ![GitHub Pages settings: 'Deploy from a branch' configuration](deploy%20from%20a%20branch.webp)
 
