@@ -57,7 +57,7 @@ Besides **Google Maps** and **Google Translate** (download offline maps and Japa
 If your phone is **unlocked** and supports **eSIM**, I highly recommend using one of these providers:
 
 * **[Ubigi](https://www.ubigi.com/)** - My personal choice.
-* **[Airalo](https://www.airalo.com/)** - A popular option that many travelers recommend.
+* **[Airalo](https://www.airalo.com/)** - I've seen people also recommend.
 
 Think of an eSIM like adding a virtual SIM card to your phone.
 
@@ -82,7 +82,7 @@ To pay for trains and buses, you have a few options:
 
 * **Paper Tickets** - Available at ticket machines, but not recommended due to the hassle.
 * **IC Cards** (Suica, Pasmo, etc.) - Convenient rechargeable transit cards.
-* **Mobile Suica** (iPhone only for travelers) - The Suica app works on iPhones and Android phones purchased in Japan.
+* **Mobile Suica** - The Suica app works on iPhones as well as Android phones purchased in Japan.
 
 I always use the **Welcome Suica** physical card. It's like a regular Suica but with these key differences:
 
