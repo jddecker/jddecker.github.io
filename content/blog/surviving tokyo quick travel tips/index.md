@@ -123,7 +123,7 @@ I've marked key details for navigating the metro:
 
 Here are some final quick tips:
 
-* Pack light if you can. There are lots of stairs and it's easier to use trians.
+* Pack light if you can. There are lots of stairs and it's easier to use trains.
 * Carry some cash. While cards are becoming more common, you'll still need Yen for small shops and temples. I budget about ¥10,000 per person per week in cash, more if you plan on hitting the Gachapon (capsule toy) machines.
 * Always carry your passport. It's your legal ID in Japan, and you're required to show it if requested by authorities.
 * Be prepared for lots of walking and stairs (wear comfortable shoes or whatever works for you).
