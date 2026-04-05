@@ -6,7 +6,7 @@ updated = 2025-06-15
 draft = false
 
 [extra]
-og_image = "og.webp"
+og_image = "plum%20blossoms.webp"
 og_image_alt = "Close up of plum blossoms with the rest of the tree blurry in the background"
 +++
 

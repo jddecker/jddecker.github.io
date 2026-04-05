@@ -7,6 +7,7 @@
             {% if page.description %}<p>{{ page.description }}</p>{% endif %}
         </hgroup>
         <p>Published: {{ page.date | date(format="%B %-e, %Y") }}{% if page.updated %}<br>Updated: {{ page.updated | date(format="%B %-e, %Y") }}{% endif %}</p>
+        {#
         {% if page.toc %}
         <article class="blog-toc">
             <details>
@@ -66,6 +67,7 @@
             </details>
         </article>
         {% endif %}
+        #}
         {{ page.content | safe }}
     </main>
 {% endblock content %}
