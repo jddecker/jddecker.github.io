@@ -32,7 +32,9 @@ html {
     flex-wrap: wrap;
 }
 .blog-item {
-    max-width: 30rem;
+    display: flex;
+    flex-direction: column;
+    max-width: 18rem;
     margin-left: calc(var(--pico-spacing) / 2);
     margin-right: calc(var(--pico-spacing) / 2);
 }
@@ -42,6 +44,18 @@ html {
     margin-right: auto;
     display: block;
     border-radius: var(--pico-border-radius);
+}
+.blog-item hgroup {
+    flex: 1;
+}
+.blog-item-date {
+    margin-top: auto;
+}
+.og-img {
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    width: 100%;
+    height: auto;
 }
 .blog-post figcaption {
     text-align: center;
