@@ -8,9 +8,9 @@
                 {% for page in section.pages %}
                     <article class="blog-item">
                         {% if page.extra.og_image %}
-                            <p><a href="{{ page.path | safe }}"><img src="{{ page.path ~ page.extra.og_image | safe }}" class="og-img"{% if page.extra.og_image_alt %} alt="{{ page.extra.og_image_alt }}"{% endif %}></a></p>
+                            <p><a href="{{ page.path | safe }}"><img src="{{ page.path ~ page.extra.og_image | safe }}" class="blog-item-og-img"{% if page.extra.og_image_alt %} alt="{{ page.extra.og_image_alt }}"{% endif %}></a></p>
                         {% else %}
-                            <p><a href="{{ page.path | safe }}"><img src="/og.webp" class="og-img" alt="A stylized image of code, representing Jeffrey David Decker's website"></a></p>
+                            <p><a href="{{ page.path | safe }}"><img src="/og.webp" class="blog-item-og-img" alt="A stylized image of code, representing Jeffrey David Decker's website"></a></p>
                         {% endif %}
                         <hgroup>
                             <h2><a href="{{ page.path | safe }}">{{ page.title }}</a></h2>
