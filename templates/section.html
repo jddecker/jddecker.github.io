@@ -16,11 +16,7 @@
                             <h2><a href="{{ page.path | safe }}">{{ page.title }}</a></h2>
                             {% if page.description %}<p>{{ page.description }}</p>{% endif %}
                         </hgroup>
-                            {% if page.updated %}
-                                <p class="blog-item-date">Updated: {{ page.updated | date(format="%B %-e, %Y") }}</p>
-                            {% else %}
-                                <p class="blog-item-date">Published: {{ page.date | date(format="%B %-e, %Y") }}</p>
-                            {% endif %}
+                            <p class="blog-item-date">{% if page.updated %}Updated: {{ page.updated | date(format="%B %-e, %Y") }}{% else %}Published: {{ page.date | date(format="%B %-e, %Y") }}{% endif %}</p>
                     </article>
                 {% endfor %}
             </div>
