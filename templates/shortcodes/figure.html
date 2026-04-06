@@ -1,0 +1,4 @@
+<figure>
+    <img src="{{ img }}"{% if alt %} alt="{{ alt }}"{% endif %}>
+    {% if caption %}<figcaption>{{ caption | markdown | replace(from="<p>", to="") | replace(from="</p>", to="") | safe }}</figcaption>{% endif %}
+</figure>
