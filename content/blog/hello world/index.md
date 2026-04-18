@@ -13,7 +13,7 @@ og_image_alt = "Stylized code image representing Jeffrey David Decker's website"
 
 Hello 👋! As a fan of tech, I enjoy exploring new ways to learn about programming, design, and engineering.
 
-This'll be used for posts on whatever I feel like.
+I'll use this for posts on whatever I feel like.
 
 Some tech this is built on:
 * [Zola](https://www.getzola.org)
