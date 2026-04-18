@@ -16,7 +16,7 @@ There are lots of videos and blogs out there about traveling to Japan. After a f
 
 ## Don't be a Jerk
 
-The #1 thing is to just not be a jerk. There is so much out there about being quiet, don't talk to your phone, bow, etc. This really comes down to not being a jerk.
+The #1 thing is to just not be a jerk. There is so much out there about being quiet, don't talk on your phone, bow, etc. This really comes down to not being a jerk.
 
 Most people in Japan don't care if you have to take a phone call, but you don't need to take it in the middle of a restaurant.
 
