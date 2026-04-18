@@ -46,7 +46,7 @@ Having a working phone helps a lot. Here are the apps and ways to get data I rec
 
 ### Getting Data
 
-As long as your phone is **unlocked** and supports **eSIM**, here's is what I recommend:
+As long as your phone is **unlocked** and supports **eSIM**, here's what I recommend:
 
 * [Ubigi](https://www.ubigi.com/)
 * [Airalo](https://www.airalo.com/)
