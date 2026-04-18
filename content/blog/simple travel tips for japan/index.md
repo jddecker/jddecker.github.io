@@ -53,14 +53,14 @@ As long as your phone is **unlocked** and supports **eSIM**, then this is what I
 
 I've used Ubigi the most and it's worked great.
 
-If your phone **isn't unlocked** or **doesn't support eSIMs** you have two main options:
+If your phone **isn't unlocked** or **doesn't support eSIMs**, you have two main options:
 
 * Get international roaming through your current phone provider (usually expensive)
 * Rent a pocket wifi (but you have to carry around a device that needs to be returned at the end of your trip)
 
 ## Getting Around
 
-So many areas of Japan are setup to get around easily with public transport. There isn't a need to rent a car.
+So many areas of Japan are set up to get around easily with public transport. There isn't a need to rent a car.
 
 ### Paying for Transport
 
@@ -70,7 +70,7 @@ The easiest thing to do is get a Welcome Suica card. They look like this:
 
 There are machines to buy them in the major airports and the larger train stations.
 
-If you have an iPhone, then you can get the Welcome Suica app, which lets you use your phone instead of getting a physical card, but you do miss out on the nice design of the physical card. 😢
+If you have an iPhone, then you can get the Welcome Suica app, which lets you use your phone instead of a physical card, but you do miss out on its nice design. 😢
 
 If you need more info, [PiQtour has a great article and video on Suica and IC cards](https://piqtour.com/iccards/).
 
