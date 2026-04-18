@@ -18,4 +18,4 @@ This'll be used for posts on whatever I feel like.
 Some tech this is built on:
 * [Zola](https://www.getzola.org)
 * [Pico CSS](https://picocss.com)
-* [Github Pages](https://pages.github.com)
+* [GitHub Pages](https://pages.github.com)
