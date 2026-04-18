@@ -64,13 +64,13 @@ So many areas of Japan are setup to get around easily with public transport. The
 
 ### Paying for Transport
 
-Easiest thing to do is get a Welcome Suica card. They look like this:
+The easiest thing to do is get a Welcome Suica card. They look like this:
 
 ![Welcome Suica card](welcome%20suica%20card.webp)
 
 There are machines to buy them in the major airports and the larger train stations.
 
-If you have an iPhone, then you can get the Welcome Suica app, that lets you use your phone instead of getting a physical card, but you do miss out on the nice design of the physical card. 😢
+If you have an iPhone, then you can get the Welcome Suica app, which lets you use your phone instead of getting a physical card, but you do miss out on the nice design of the physical card. 😢
 
 If you need more info, [PiQtour has a great article and video on Suica and IC cards](https://piqtour.com/iccards/).
 
@@ -82,7 +82,7 @@ So you don't have to look at your phone all the time on trains, you can get arou
 
 ![Google Maps example screenshot](google%20maps%20example.webp)
 
-The key details here are
+The key details here are:
 
 * Your starting station is **Shinjuku-gyoemmae Sta. (M10)**. 
 * Find the **Marunouchi Line** (look for the red "M" symbol), head to **Platform 2**, and board a **local** train (*express* and *limited express* trains skip certain stops, while *local* trains go to every stop on their line).
@@ -92,13 +92,13 @@ The key details here are
 
 ## Last Quick Tips
 
-* Pack light. Japan is filled with stairs and walking.
+* Pack light. Expect lots of stairs and walking.
 * Carry some cash. While credit cards are becoming more common, you'll still need Yen for small shops and temples. I budget about ¥10,000 per person per week in cash, more if you plan on hitting the Gachapon (capsule toy) machines.
 * Always carry your passport on you.
 * Bathrooms in Japan are generally good. Shopping centers, restaurants, and hotels tend to have the nicest ones.
 * Have hand sanitizer in case a public bathroom doesn't have soap.
 * If you plan to shop a lot, pack a bag inside your suitcase. That way you have extra space when you come back.
-* Find hotels that are within a 5-10 minute walk of a Tokyo Metro or JR line in Tokyo.
+* Find hotels that are within a 5-10 minute walk of Tokyo Metro or JR lines.
 * When given the option to pay in Japanese Yen or US Dollars, choose Yen. With 1 USD ≈ 150 JPY as of this writing, it is usually cheaper.
 * Pack deodorant. It's difficult to find good deodorant in Japan.
 * Fill out your customs form in advance through [Visit Japan Web](https://www.vjw.digital.go.jp/). Using the QR code at the airport is much faster than handwriting paper forms.
