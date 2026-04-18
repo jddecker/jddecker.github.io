@@ -16,19 +16,19 @@ There are lots of videos and blogs out there about traveling to Japan. After a f
 
 ## Don't be a Jerk
 
-The #1 thing is to just not be a jerk. There is so much out there about being quiet, don't talk on your phone, bow, etc. This really comes down to not being a jerk.
+The #1 thing is to just not be a jerk. There is so much out there about being quiet, not talking on your phone, bowing, etc. This really comes down to not being a jerk.
 
 Most people in Japan don't care if you have to take a phone call, but you don't need to take it in the middle of a restaurant.
 
 Most people won't mind if you end up being a little bit loud.
 
-Pay attention to your surroundings, do as others are doing, and you'll be fine.
+Pay attention to your surroundings, follow what others are doing, and you'll be fine.
 
 ## Useful Japanese Phrases
 
 If you are like me and don't know much Japanese, you can go far with these three phrases:
 
-1. **[Sumimasen](https://www.youtube.com/watch?v=EpGcxg9i0QI)** - Translates to kind of "excuse me". Use it to get someone's attention or if you bump into someone.
+1. **[Sumimasen](https://www.youtube.com/watch?v=EpGcxg9i0QI)** - Translates to something like "excuse me". Use it to get someone's attention or if you bump into someone.
 2. **[Arigato Gozaimasu](https://www.youtube.com/watch?v=wYPEdMdyMLg)** - A polite "thank you".
 3. **[Onegaishimasu](https://www.youtube.com/watch?v=GUgfrtPTBGo)** - Basically means "please".
 
@@ -46,7 +46,7 @@ Having a working phone helps a lot. Here are the apps and ways to get data I rec
 
 ### Getting Data
 
-As long as your phone is **unlocked** and supports **eSIM**, then this is what I recommend:
+As long as your phone is **unlocked** and supports **eSIM**, here's is what I recommend:
 
 * [Ubigi](https://www.ubigi.com/)
 * [Airalo](https://www.airalo.com/)
@@ -76,7 +76,7 @@ If you need more info, [PiQtour has a great article and video on Suica and IC ca
 
 ### Navigate Trains and the Metro
 
-I use **Google Maps** since you can enter in your destination, and tell it to use public transport.
+I use **Google Maps** since you can enter your destination and have it suggest public transport routes.
 
 So you don't have to look at your phone all the time on trains, you can get around by noting a few pieces of information. For example:
 
@@ -97,9 +97,9 @@ The key details here are:
 * Always carry your passport on you.
 * Bathrooms in Japan are generally good. Shopping centers, restaurants, and hotels tend to have the nicest ones.
 * Have hand sanitizer in case a public bathroom doesn't have soap.
-* If you plan to shop a lot, pack a bag inside your suitcase. That way you have extra space when you come back.
+* If you plan to shop a lot, pack an empty bag inside your suitcase. That way, you'll have extra space when you come back.
 * Find hotels that are within a 5-10 minute walk of Tokyo Metro or JR lines.
-* When given the option to pay in Japanese Yen or US Dollars, choose Yen. With 1 USD ≈ 150 JPY as of this writing, it is usually cheaper.
+* When given the option to pay in Japanese yen or US Dollars, choose yen. With 1 USD ≈ 150 JPY as of this writing, it is usually cheaper.
 * Pack deodorant. It's difficult to find good deodorant in Japan.
 * Fill out your customs form in advance through [Visit Japan Web](https://www.vjw.digital.go.jp/). Using the QR code at the airport is much faster than handwriting paper forms.
 
@@ -118,6 +118,6 @@ These are some of the resources I like.
     * [PremierTwo](https://www.twitch.tv/premiertwo)
     * [CDawgVA](https://www.twitch.tv/cdawgva)
     * [robcdee](https://www.twitch.tv/robcdee)
-* Reddit:  
+* Reddit:
     * [r/JapanTravelTips](https://www.reddit.com/r/JapanTravelTips/)
     * [r/JapanTravel](https://www.reddit.com/r/JapanTravel)
