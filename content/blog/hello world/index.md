@@ -11,11 +11,13 @@ og_image_alt = "Stylized code image representing Jeffrey David Decker's website"
 
 {{ figure(img="code.webp", alt="Stylized code image representing Jeffrey David Decker's website", caption="The HTML!") }}
 
-Hello 👋! As a fan of tech, I enjoy exploring new ways to learn about programming, design, and engineering.
+Hello 👋
 
-I'll use this for posts on whatever I feel like.
+As a fan of tech, I enjoy exploring new ways to learn about programming, design, and engineering.
 
-Some tech this is built on:
+I'll use this space to post about whatever I feel like.
+
+This site is built with:
 * [Zola](https://www.getzola.org)
 * [Pico CSS](https://picocss.com)
 * [GitHub Pages](https://pages.github.com)
