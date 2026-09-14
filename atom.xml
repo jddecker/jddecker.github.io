@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Jeffrey David Decker</title>
+    <subtitle>Computer enthusiast who loves exploring small projects to deepen my understanding of programming, design, and engineering</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://www.jddecker.com/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.jddecker.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-04-06T00:00:00+00:00</updated>
+    <id>https://www.jddecker.com/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Simple Travel Tips for Japan</title>
+        <published>2025-03-23T00:00:00+00:00</published>
+        <updated>2026-04-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Jeffrey David Decker
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.jddecker.com/blog/simple-travel-tips-for-japan/"/>
+        <id>https://www.jddecker.com/blog/simple-travel-tips-for-japan/</id>
+        
+        <content type="html" xml:base="https://www.jddecker.com/blog/simple-travel-tips-for-japan/">&lt;figure&gt;
+    &lt;img src=&quot;plum%20blossoms.webp&quot; alt=&quot;Close up of plum blossoms&quot;&gt;
+    &lt;figcaption&gt;Plum blossoms in Japan
+&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;There are lots of videos and blogs out there about traveling to Japan. After a few experiences, this is, in my opinion, all you really need to know.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;don-t-be-a-jerk&quot;&gt;Don&#x27;t be a Jerk&lt;&#x2F;h2&gt;
+&lt;p&gt;The #1 thing is to just not be a jerk. There is so much out there about being quiet, not talking on your phone, bowing, etc. This really comes down to not being a jerk.&lt;&#x2F;p&gt;
+&lt;p&gt;Most people in Japan don&#x27;t care if you have to take a phone call, but you don&#x27;t need to take it in the middle of a restaurant.&lt;&#x2F;p&gt;
+&lt;p&gt;Most people won&#x27;t mind if you end up being a little bit loud.&lt;&#x2F;p&gt;
+&lt;p&gt;Pay attention to your surroundings, follow what others are doing, and you&#x27;ll be fine.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;useful-japanese-phrases&quot;&gt;Useful Japanese Phrases&lt;&#x2F;h2&gt;
+&lt;p&gt;If you are like me and don&#x27;t know much Japanese, you can go far with these three phrases:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=EpGcxg9i0QI&quot;&gt;Sumimasen&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; - Translates to something like &quot;excuse me&quot;. Use it to get someone&#x27;s attention or if you bump into someone.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=wYPEdMdyMLg&quot;&gt;Arigato Gozaimasu&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; - A polite &quot;thank you&quot;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=GUgfrtPTBGo&quot;&gt;Onegaishimasu&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; - Basically means &quot;please&quot;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;phone-apps-and-data&quot;&gt;Phone Apps and Data&lt;&#x2F;h2&gt;
+&lt;p&gt;Having a working phone helps a lot. Here are the apps and ways to get data I recommend.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;apps&quot;&gt;Apps&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;maps.google.com&quot;&gt;Google Maps&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; - For maps and getting around. Works well with trains and subways.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;translate.google.com&quot;&gt;Google Translate&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; - To translate Japanese you don&#x27;t know.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;nerv.app&#x2F;en&#x2F;&quot;&gt;NERV&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; - A disaster prevention app that provides real-time alerts for earthquakes, tsunamis, and other emergencies. Set it up and turn on notifications.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;go.goinc.jp&#x2F;lp&#x2F;inbound&quot;&gt;GO Taxi&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; - Like Uber or Lyft, but for Japan. It&#x27;s nice since you can put in your pickup and drop-off points so there isn&#x27;t any confusion from the taxi driver on where you are trying to go.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;suikakeibo.jp&#x2F;en&quot;&gt;Suikakeibo&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; - If you have a physical IC card, this will let you read the balance by tapping the card to your phone.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;getting-data&quot;&gt;Getting Data&lt;&#x2F;h3&gt;
+&lt;p&gt;As long as your phone is &lt;strong&gt;unlocked&lt;&#x2F;strong&gt; and supports &lt;strong&gt;eSIM&lt;&#x2F;strong&gt;, here&#x27;s what I recommend:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.ubigi.com&#x2F;&quot;&gt;Ubigi&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.airalo.com&#x2F;&quot;&gt;Airalo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;I&#x27;ve used Ubigi the most and it&#x27;s worked great.&lt;&#x2F;p&gt;
+&lt;p&gt;If your phone &lt;strong&gt;isn&#x27;t unlocked&lt;&#x2F;strong&gt; or &lt;strong&gt;doesn&#x27;t support eSIMs&lt;&#x2F;strong&gt;, you have two main options:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Get international roaming through your current phone provider (usually expensive)&lt;&#x2F;li&gt;
+&lt;li&gt;Rent a pocket wifi (but you have to carry around a device that needs to be returned at the end of your trip)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;getting-around&quot;&gt;Getting Around&lt;&#x2F;h2&gt;
+&lt;p&gt;So many areas of Japan are set up to get around easily with public transport. There isn&#x27;t a need to rent a car.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;paying-for-transport&quot;&gt;Paying for Transport&lt;&#x2F;h3&gt;
+&lt;p&gt;The easiest thing to do is get a Welcome Suica card. They look like this:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;www.jddecker.com&#x2F;blog&#x2F;simple-travel-tips-for-japan&#x2F;welcome%20suica%20card.webp&quot; alt=&quot;Welcome Suica card&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;There are machines to buy them in the major airports and the larger train stations.&lt;&#x2F;p&gt;
+&lt;p&gt;If you have an iPhone, then you can get the Welcome Suica app, which lets you use your phone instead of a physical card, but you do miss out on its nice design. 😢&lt;&#x2F;p&gt;
+&lt;p&gt;If you need more info, &lt;a href=&quot;https:&#x2F;&#x2F;piqtour.com&#x2F;iccards&#x2F;&quot;&gt;PiQtour has a great article and video on Suica and IC cards&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;navigate-trains-and-the-metro&quot;&gt;Navigate Trains and the Metro&lt;&#x2F;h3&gt;
+&lt;p&gt;I use &lt;strong&gt;Google Maps&lt;&#x2F;strong&gt; since you can enter your destination and have it suggest public transport routes.&lt;&#x2F;p&gt;
+&lt;p&gt;So you don&#x27;t have to look at your phone all the time on trains, you can get around by noting a few pieces of information. For example:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;www.jddecker.com&#x2F;blog&#x2F;simple-travel-tips-for-japan&#x2F;google%20maps%20example.webp&quot; alt=&quot;Google Maps example screenshot&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The key details here are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your starting station is &lt;strong&gt;Shinjuku-gyoemmae Sta. (M10)&lt;&#x2F;strong&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Find the &lt;strong&gt;Marunouchi Line&lt;&#x2F;strong&gt; (look for the red &quot;M&quot; symbol), head to &lt;strong&gt;Platform 2&lt;&#x2F;strong&gt;, and board a &lt;strong&gt;local&lt;&#x2F;strong&gt; train (&lt;em&gt;express&lt;&#x2F;em&gt; and &lt;em&gt;limited express&lt;&#x2F;em&gt; trains skip certain stops, while &lt;em&gt;local&lt;&#x2F;em&gt; trains go to every stop on their line).&lt;&#x2F;li&gt;
+&lt;li&gt;Google Maps often suggests the best train car that is closest to where you&#x27;ll exit the station.&lt;&#x2F;li&gt;
+&lt;li&gt;Get off at &lt;strong&gt;Otemachi Sta. (M18)&lt;&#x2F;strong&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Exit via &lt;strong&gt;C13a&lt;&#x2F;strong&gt;. If you don&#x27;t see it, follow signs for &lt;strong&gt;Marunouchi District Gate&lt;&#x2F;strong&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;last-quick-tips&quot;&gt;Last Quick Tips&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pack light. Expect lots of stairs and walking.&lt;&#x2F;li&gt;
+&lt;li&gt;Carry some cash. While credit cards are becoming more common, you&#x27;ll still need Yen for small shops and temples. I budget about ¥10,000 per person per week in cash, more if you plan on hitting the Gachapon (capsule toy) machines.&lt;&#x2F;li&gt;
+&lt;li&gt;Always carry your passport on you.&lt;&#x2F;li&gt;
+&lt;li&gt;Bathrooms in Japan are generally good. Shopping centers, restaurants, and hotels tend to have the nicest ones.&lt;&#x2F;li&gt;
+&lt;li&gt;Have hand sanitizer in case a public bathroom doesn&#x27;t have soap.&lt;&#x2F;li&gt;
+&lt;li&gt;If you plan to shop a lot, pack an empty bag inside your suitcase. That way, you&#x27;ll have extra space when you come back.&lt;&#x2F;li&gt;
+&lt;li&gt;Find hotels that are within a 5-10 minute walk of Tokyo Metro or JR lines.&lt;&#x2F;li&gt;
+&lt;li&gt;When given the option to pay in Japanese yen or US Dollars, choose yen. With 1 USD ≈ 150 JPY as of this writing, it is usually cheaper.&lt;&#x2F;li&gt;
+&lt;li&gt;Pack deodorant. It&#x27;s difficult to find good deodorant in Japan.&lt;&#x2F;li&gt;
+&lt;li&gt;Fill out your customs form in advance through &lt;a href=&quot;https:&#x2F;&#x2F;www.vjw.digital.go.jp&#x2F;&quot;&gt;Visit Japan Web&lt;&#x2F;a&gt;. Using the QR code at the airport is much faster than handwriting paper forms.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;more-resources&quot;&gt;More Resources&lt;&#x2F;h2&gt;
+&lt;p&gt;These are some of the resources I like.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Travel Guide Websites:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;tokyocheapo.com&#x2F;&quot;&gt;Tokyo Cheapo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.japan-guide.com&#x2F;&quot;&gt;Japan Guide&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Videos:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@piqtourjapan&quot;&gt;PiQtour YouTube&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@AbroadinJapan&quot;&gt;Abroad in Japan&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@seerasan&quot;&gt;Seerasan&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Live streamers:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.twitch.tv&#x2F;premiertwo&quot;&gt;PremierTwo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.twitch.tv&#x2F;cdawgva&quot;&gt;CDawgVA&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.twitch.tv&#x2F;robcdee&quot;&gt;robcdee&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Reddit:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;JapanTravelTips&#x2F;&quot;&gt;r&#x2F;JapanTravelTips&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;JapanTravel&quot;&gt;r&#x2F;JapanTravel&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Hello World 👋</title>
+        <published>2025-03-17T00:00:00+00:00</published>
+        <updated>2025-03-17T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Jeffrey David Decker
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.jddecker.com/blog/hello-world/"/>
+        <id>https://www.jddecker.com/blog/hello-world/</id>
+        
+        <content type="html" xml:base="https://www.jddecker.com/blog/hello-world/">&lt;figure&gt;
+    &lt;img src=&quot;code.webp&quot; alt=&quot;Stylized code image representing Jeffrey David Decker&amp;#x27;s website&quot;&gt;
+    &lt;figcaption&gt;The HTML!
+&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Hello 👋&lt;&#x2F;p&gt;
+&lt;p&gt;As a fan of tech, I enjoy exploring new ways to learn about programming, design, and engineering.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;ll use this space to post about whatever I feel like.&lt;&#x2F;p&gt;
+&lt;p&gt;This site is built with:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&quot;&gt;Zola&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;picocss.com&quot;&gt;Pico CSS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;pages.github.com&quot;&gt;GitHub Pages&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
