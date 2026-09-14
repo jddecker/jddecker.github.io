@@ -41,5 +41,13 @@
                 <span class="profile-text">jdd@jddecker.com</span>
             </a>
         </p>
+
+        {% set blog = get_section(path="blog/_index.md") %}
+        {% if blog.pages | length > 0 %}
+            <h2 id="blog">Blog</h2>
+                {% for page in blog.pages %}
+                    <p><a href="{{ page.path | safe }}">{{ page.title }}</a><br><small>{% if page.updated %}Updated: {{ page.updated | date(format="%Y-%m-%d") }}{% else %}Published: {{ page.date | date(format="%Y-%m-%d") }}{% endif %}</small></p>
+                {% endfor %}
+        {% endif %}
     </main>
 {% endblock content %}
