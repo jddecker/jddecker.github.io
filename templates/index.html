@@ -87,8 +87,9 @@
                 {% endfor %}
             </div>
             {% if blog_count > 1 %}
+                {% set blog_count_minus = blog_count - 1 %}
                 <details>
-                    <summary class="blog-more">View {{ blog_count - 1 }} more post{{ blog_count - 1 | pluralize }}</summary>
+                    <summary class="blog-more">View {{ blog_count_minus }} more post{{ blog_count_minus | pluralize }}</summary>
                     <div class="blog-items">
                         {% for page in blog.pages[1:] %}
                             <article class="blog-item">

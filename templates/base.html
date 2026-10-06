@@ -5,28 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="color-scheme" content="dark">
 
-    {% if section.title %}
-        <title>{{ section.title }} - Jeffrey David Decker</title>
-        <meta property="og:title" content="{{ section.title }} - Jeffrey David Decker">
-    {% elif page.title %}
-        <title>{{ page.title }} - Jeffrey David Decker</title>
-        <meta property="og:title" content="{{ page.title }} - Jeffrey David Decker">
+    {% if section is defined and section.title %}
+        {% set full_title = section.title ~ " - " ~ config.title %}
+    {% elif page is defined and page.title %}
+        {% set full_title = page.title ~ " - " ~ config.title %}
     {% else %}
-        <title>Jeffrey David Decker</title>
-        <meta property="og:title" content="Jeffrey David Decker">
+        {% set full_title = config.title %}
     {% endif %}
+    <title>{{ full_title }}</title>
+    <meta property="og:title" content="{{ full_title }}">
 
-    {% if section.description %}
+    {% if section is defined and section.description %}
         <meta name="description" content="{{ section.description }}">
         <meta property="og:description" content="{{ section.description }}">
-    {% elif page.description %}
+    {% elif page is defined and page.description %}
         <meta name="description" content="{{ page.description }}">
         <meta property="og:description" content="{{ page.description }}">
     {% endif %}
 
-    {% if section %}
+    {% if section is defined %}
         <meta property="og:url" content="{{ section.permalink | safe }}">
-    {% elif page %}
+    {% elif page is defined %}
         <meta property="og:type" content="article">
         {% if page.date %}<meta property="og:article:published_time" content="{{ page.date }}">{% endif %}
         {% if page.updated %}<meta property="og:article:modified_time" content="{{ page.updated }}">{% endif %}
@@ -34,11 +33,11 @@
         <meta property="og:url" content="{{ page.permalink | safe }}">
     {% endif %}
 
-    {% if section or page %}
-        {% if section.extra.og_image %}
+    {% if section is defined or page is defined %}
+        {% if section is defined and section.extra.og_image %}
             <meta property="og:image" content="{{ section.permalink ~ section.extra.og_image | safe }}">
             {% if section.extra.og_image_alt %}<meta property="og:image:alt" content="{{ section.extra.og_image_alt }}">{% endif %}
-        {% elif page.extra.og_image %}
+        {% elif page is defined and page.extra.og_image %}
             <meta property="og:image" content="{{ page.permalink ~ page.extra.og_image | safe }}">
             {% if page.extra.og_image_alt %}<meta property="og:image:alt" content="{{ page.extra.og_image_alt }}">{% endif %}
         {% else %}
