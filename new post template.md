@@ -9,6 +9,5 @@ og_image = "og.webp"
 og_image_alt = ""
 +++
 
-{% figcap(img="", alt="") %}
+{{ <figure img="" alt="" caption="" /> }}
 
-{% end %}
