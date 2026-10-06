@@ -71,7 +71,7 @@
         {% if blog_count > 0 %}
             <h2 id="blog">Blog</h2>
             <div class="blog-items">
-                {% for page in blog.pages | slice(end=1) %}
+                {% for page in blog.pages[:1] %}
                     <article class="blog-item blog-item-first">
                         {% if page.extra.og_image %}
                             <p><a href="{{ page.path | safe }}"><img src="{{ page.path ~ page.extra.og_image | safe }}" class="blog-item-og-img"{% if page.extra.og_image_alt %} alt="{{ page.extra.og_image_alt }}"{% endif %}></a></p>
@@ -90,7 +90,7 @@
                 <details>
                     <summary class="blog-more">View {{ blog_count - 1 }} more post{{ blog_count - 1 | pluralize }}</summary>
                     <div class="blog-items">
-                        {% for page in blog.pages | slice(start=1) %}
+                        {% for page in blog.pages[1:] %}
                             <article class="blog-item">
                                 {% if page.extra.og_image %}
                                     <p><a href="{{ page.path | safe }}"><img loading="lazy" src="{{ page.path ~ page.extra.og_image | safe }}" class="blog-item-og-img"{% if page.extra.og_image_alt %} alt="{{ page.extra.og_image_alt }}"{% endif %}></a></p>
