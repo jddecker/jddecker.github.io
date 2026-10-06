@@ -9,7 +9,7 @@ og_image = "code.webp"
 og_image_alt = "Stylized code image representing Jeffrey David Decker's website"
 +++
 
-{{ figure(img="code.webp", alt="Stylized code image representing Jeffrey David Decker's website", caption="The HTML!") }}
+{{ <figure img="code.webp" alt="Stylized code image representing Jeffrey David Decker's website" caption="The HTML!" /> }}
 
 Hello 👋
 

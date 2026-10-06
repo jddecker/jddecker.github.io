@@ -10,7 +10,7 @@ og_image = "plum%20blossoms.webp"
 og_image_alt = "Close up of plum blossoms"
 +++
 
-{{ figure(img="plum%20blossoms.webp", alt="Close up of plum blossoms", caption="Plum blossoms in Japan") }}
+{{ <figure img="plum%20blossoms.webp" alt="Close up of plum blossoms" caption="Plum blossoms in Japan" /> }}
 
 There are lots of videos and blogs out there about traveling to Japan. After a few experiences, this is, in my opinion, all you really need to know.
 

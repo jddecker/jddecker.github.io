@@ -1,0 +1,8 @@
+{% component figure(img: string, alt: string = "", caption: string = "") %}
+<figure>
+    <img src="{{ img }}"{% if alt %} alt="{{ alt }}"{% endif %}>
+    {% if caption -%}
+        <figcaption>{{ caption | markdown(inline=true) | safe }}</figcaption>
+    {% endif %}
+</figure>
+{% endcomponent figure %}
