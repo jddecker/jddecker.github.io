@@ -41,6 +41,9 @@ html {
     margin-left: calc(var(--pico-spacing) / 2);
     margin-right: calc(var(--pico-spacing) / 2);
 }
+.blog-item-first {
+    max-width: 30rem;
+}
 .blog-post img,
 .blog-item img {
     margin-left: auto;

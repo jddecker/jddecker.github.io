@@ -72,7 +72,7 @@
             <h2 id="blog">Blog</h2>
             <div class="blog-items">
                 {% for page in blog.pages | slice(end=1) %}
-                    <article class="blog-item">
+                    <article class="blog-item blog-item-first">
                         {% if page.extra.og_image %}
                             <p><a href="{{ page.path | safe }}"><img src="{{ page.path ~ page.extra.og_image | safe }}" class="blog-item-og-img"{% if page.extra.og_image_alt %} alt="{{ page.extra.og_image_alt }}"{% endif %}></a></p>
                         {% else %}
