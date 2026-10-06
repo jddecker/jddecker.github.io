@@ -9,7 +9,7 @@ description = "Computer enthusiast who loves exploring small projects to deepen 
 default_language = "en"
 
 # The site theme to use.
-theme = ""
+# theme = ""
 
 # For overriding the default output directory `public`, set it to another value (e.g.: "docs")
 output_dir = "public"
@@ -167,8 +167,8 @@ style = "inline"
 theme = "github-dark"
 
 # 2. If you want light/dark themes, use the 2 fields below instead. See the syntax highlighting page for the possible choices.
-light_theme = ""
-dark_theme = ""
+# light_theme = ""
+# dark_theme = ""
 
 # A list of files for additional JSON TextMate grammars
 extra_grammars = []
